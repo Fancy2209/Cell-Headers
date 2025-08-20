@@ -1,0 +1,6 @@
+modules:
+  liblv2:
+    libraries:
+      sysConsoleId:
+        functions:
+          sys_get_console_id: 0xF220F751

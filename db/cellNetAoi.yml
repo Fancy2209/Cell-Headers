@@ -1,0 +1,15 @@
+modules:
+  cellNetCtl_Library:
+    libraries:
+      cellNetAoi:
+        functions:
+          cellNetAoiAddPeer: 0xDC3AA14B
+          cellNetAoiDeletePeer: 0x222FD339
+          cellNetAoiGetLocalInfo: 0xC9151906
+          cellNetAoiGetPspTitleId: 0x62FEC3B7
+          cellNetAoiGetRemotePeerInfo: 0xB4335A81
+          cellNetAoiInit: 0x480886AF
+          cellNetAoiStart: 0xBDACA3AF
+          cellNetAoiStop: 0x8AA68668
+          cellNetAoiTerm: 0x86F19F82
+          cellNetAoi_0x8202AA2B: 0x8202AA2B

@@ -1,0 +1,7 @@
+modules:
+  cellSre_Library:
+    libraries:
+      cellSpudll:
+        functions:
+          cellSpudllGetImageSize: 0xCCCD3257
+          cellSpudllHandleConfigSetDefaultValues: 0x3FBCF1D6

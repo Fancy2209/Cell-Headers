@@ -1,0 +1,15 @@
+modules:
+  cellAdec_Library:
+    libraries:
+      cellAdec:
+        functions:
+          cellAdecClose: 0x847D2380
+          cellAdecDecodeAu: 0x1529E506
+          cellAdecEndSeq: 0xE2EA549B
+          cellAdecGetPcm: 0x97FF2AF1
+          cellAdecGetPcmItem: 0xBD75F78B
+          cellAdecOpen: 0xD00A6988
+          cellAdecOpenEx: 0x8B5551A4
+          cellAdecOpenExt: 0xDF982D2C
+          cellAdecQueryAttr: 0x7E4A4A49
+          cellAdecStartSeq: 0x487B613E

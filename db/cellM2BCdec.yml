@@ -1,0 +1,6 @@
+modules:
+  cellM2BCdec_Library:
+    libraries:
+      cellM2BCdec:
+        functions:
+          _SceAdecCorrectPtsValue_mpmc: 0xEC7DE355

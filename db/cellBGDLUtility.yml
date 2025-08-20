@@ -1,0 +1,9 @@
+modules:
+  cellBGDLUtility:
+    libraries:
+      cellBGDLUtility:
+        functions:
+          cellBGDLGetInfo: 0x4E9BB95B
+          cellBGDLGetInfo2: 0x2AB0D183
+          cellBGDLGetMode: 0x74E57BDF
+          cellBGDLSetMode: 0x7E134A90

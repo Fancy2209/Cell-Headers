@@ -1,0 +1,36 @@
+modules:
+  cellNetCtl_Library:
+    libraries:
+      cellNetCtl:
+        functions:
+          cellGameUpdateCheckAbort: 0x3E359AB6
+          cellGameUpdateCheckFinishAsync: 0xFFA3D791
+          cellGameUpdateCheckFinishAsyncEx: 0xF463981C
+          cellGameUpdateCheckStartAsync: 0xD0A5D727
+          cellGameUpdateCheckStartAsyncEx: 0x0791015F
+          cellGameUpdateCheckStartWithoutDialogAsync: 0xA5E1FA60
+          cellGameUpdateCheckStartWithoutDialogAsyncEx: 0x558700F6
+          cellGameUpdateInit: 0x99AB1A26
+          cellGameUpdateTerm: 0x10DAE56D
+          cellNetCtlAddHandler: 0x0CE13C6B
+          cellNetCtlAddHandlerGameInt: 0xB23D5A13
+          cellNetCtlConnectGameInt: 0x21D67EEF
+          cellNetCtlDelHandler: 0x901815C3
+          cellNetCtlDelHandlerGameInt: 0x793BBF51
+          cellNetCtlDisconnectGameInt: 0xF08BA0D0
+          cellNetCtlGetInfo: 0x1E585B5D
+          cellNetCtlGetInfoGameInt: 0x11F777B7
+          cellNetCtlGetNatInfo: 0x3A12865F
+          cellNetCtlGetScanInfoGameInt: 0xF8C8B9FF
+          cellNetCtlGetState: 0x8B3EBA69
+          cellNetCtlGetStateGameInt: 0x3BFA5B37
+          cellNetCtlInit: 0xBD5A59FC
+          cellNetCtlNetStartDialogAbortAsync: 0x71D53210
+          cellNetCtlNetStartDialogLoadAsync: 0x04459230
+          cellNetCtlNetStartDialogUnloadAsync: 0x0F1F13D3
+          cellNetCtlScanGameInt: 0x71DB688D
+          cellNetCtlTerm: 0x105EE2CB
+          cellNetCtl_0x090597CA: 0x090597CA
+          cellNetCtl_0x29A668E6: 0x29A668E6
+          cellNetCtl_0xBA18E99D: 0xBA18E99D
+          cellNetCtl_0xBBA7A54F: 0xBBA7A54F

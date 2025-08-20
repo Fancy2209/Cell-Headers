@@ -1,0 +1,11 @@
+modules:
+  cellPhotoUtility2:
+    libraries:
+      cellPhotoUtility2:
+        functions:
+          cellPhotoUtility2_0x025C3010: 0x025C3010
+          cellPhotoUtility2_0x1CD854D6: 0x1CD854D6
+          cellPhotoUtility2_0x4107CEAF: 0x4107CEAF
+          cellPhotoUtility2_0x47A255F8: 0x47A255F8
+          cellPhotoUtility2_0x7A6ACCA3: 0x7A6ACCA3
+          cellPhotoUtility2_0xAC77650F: 0xAC77650F

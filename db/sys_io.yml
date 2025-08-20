@@ -1,0 +1,62 @@
+modules:
+  sys_io_library:
+    libraries:
+      sys_io:
+        functions:
+          cellKbClearBuf: 0x2073B7F6
+          cellKbCnvRawCode: 0x4AB1FA77
+          cellKbEnd: 0xBFCE3285
+          cellKbGetConfiguration: 0x1F71ECBE
+          cellKbGetInfo: 0x2F1774D5
+          cellKbInit: 0x433F6EC0
+          cellKbRead: 0xFF0A21B7
+          cellKbSetCodeType: 0xA5F85E4D
+          cellKbSetLEDStatus: 0x3F72C56E
+          cellKbSetReadMode: 0xDEEFDFA7
+          cellMouseClearBuf: 0x3EF66B95
+          cellMouseEnd: 0xE10183CE
+          cellMouseGetData: 0x3138E632
+          cellMouseGetDataList: 0x6BD131F0
+          cellMouseGetInfo: 0x5BAF30FB
+          cellMouseGetRawData: 0xA328CC35
+          cellMouseGetTabletDataList: 0x21A62E9B
+          cellMouseInfoTabletMode: 0x4D0B3B1F
+          cellMouseInit: 0xC9030138
+          cellMouseSetTabletMode: 0x2D16DA4F
+          cellPadClearBuf: 0x0D5F2C14
+          cellPadEnd: 0x4D9B75D5
+          cellPadGetCapabilityInfo: 0xDBF4C59C
+          cellPadGetData: 0x8B72CDA1
+          cellPadGetDataExtra: 0x6BC09C61
+          cellPadGetInfo: 0x3AAAD464
+          cellPadGetInfo2: 0xA703A51D
+          cellPadGetRawData: 0x3F797DFF
+          cellPadInfoPressMode: 0x0E2DFAAD
+          cellPadInfoSensorMode: 0x78200559
+          cellPadInit: 0x1CF98800
+          cellPadLddDataInsert: 0xBAFD6409
+          cellPadLddGetPortNo: 0x8B8231E5
+          cellPadLddRegisterController: 0x20A97BA2
+          cellPadLddUnregisterController: 0xE442FAA8
+          cellPadPeriphGetData: 0x8A00F264
+          cellPadPeriphGetInfo: 0x4CC9B68D
+          cellPadSetActDirect: 0xF65544EE
+          cellPadSetPortSetting: 0x578E3C98
+          cellPadSetPressMode: 0xF83F8182
+          cellPadSetSensorMode: 0xBE5BE3BA
+          sys_config_add_service_listener: 0x6AE10596
+          sys_config_register_io_error_handler: 0x662BB2AD
+          sys_config_register_service: 0x78F058A2
+          sys_config_remove_service_listener: 0xF5D9D571
+          sys_config_start: 0x068FCBC6
+          sys_config_stop: 0x6D367953
+          sys_config_unregister_io_error_handler: 0x8E06D13B
+          sys_config_unregister_service: 0x5F81900C
+          sys_io_0x10DA8DCC: 0x10DA8DCC
+          sys_io_0x13ED2BA4: 0x13ED2BA4
+          sys_io_0x3733EA3C: 0x3733EA3C
+          sys_io_0x5A2645AF: 0x5A2645AF
+          sys_io_0x5C016E79: 0x5C016E79
+          sys_io_0x7009B738: 0x7009B738
+          sys_io_0x73BB2D74: 0x73BB2D74
+          sys_io_0xCCC785DF: 0xCCC785DF

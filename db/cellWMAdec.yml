@@ -1,0 +1,6 @@
+modules:
+  cellWMAdec_Library:
+    libraries:
+      cellWMAdec:
+        functions:
+          _SceAdecCorrectPtsValue_wma: 0x46E6C806

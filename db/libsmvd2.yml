@@ -1,0 +1,26 @@
+modules:
+  libsmvd2_Library:
+    libraries:
+      libsmvd2:
+        functions:
+          smvd2CancelDecode: 0xFF05DD1F
+          smvd2CreateInstance2: 0xDC6F4FF1
+          smvd2DecodePicture: 0x60D0F4FA
+          smvd2DecodePicture2: 0x1A5B72DD
+          smvd2Discontinue: 0xD8D930BC
+          smvd2FlushPicture: 0xF007F937
+          smvd2GetAuxData: 0x32DA1344
+          smvd2GetBnrData: 0xF4E8D559
+          smvd2GetExistenceFlag: 0x6D1F7D3F
+          smvd2GetMemorySize: 0x3B95270D
+          smvd2GetMemorySize2: 0xD09740F6
+          smvd2GetNumPicture: 0xE9FFF717
+          smvd2GetPicture: 0xA0D447EB
+          smvd2GetSideInfoPic: 0x4A1964A6
+          smvd2GetSideInfoSeq: 0xE36F2A6C
+          smvd2GetVersionNumber: 0x52BB9416
+          smvd2Initialize: 0xE3072DF9
+          smvd2ReleaseInstance: 0x540B43AE
+          smvd2ReleasePicture: 0x6B49A7C7
+          smvd2SetAuxData: 0x96C2A2D9
+          smvd2SetDecodeMode: 0x5A0355CF

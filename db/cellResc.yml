@@ -1,0 +1,27 @@
+modules:
+  cellResc_Library:
+    libraries:
+      cellResc:
+        functions:
+          cellRescAdjustAspectRatio: 0x22AE06D8
+          cellRescCreateInterlaceTable: 0xE0CEF79E
+          cellRescExit: 0x2EA3061E
+          cellRescGcmSurface2RescSrc: 0x01220224
+          cellRescGetBufferSize: 0x5A338CDB
+          cellRescGetFlipStatus: 0xC47C5C22
+          cellRescGetLastFlipTime: 0x66F5E388
+          cellRescGetNumColorBuffers: 0x0A2069C7
+          cellRescGetRegisterCount: 0x1DD3C4CD
+          cellRescInit: 0x516EE89E
+          cellRescResetFlipStatus: 0x129922A0
+          cellRescSetBufferAddress: 0x8107277C
+          cellRescSetConvertAndFlip: 0x25C107E6
+          cellRescSetDisplayMode: 0x23134710
+          cellRescSetDsts: 0x10DB5B1A
+          cellRescSetFlipHandler: 0x2EA94661
+          cellRescSetPalInterpolateDropFlexRatio: 0x19A2A967
+          cellRescSetRegisterCount: 0x7AF8A37F
+          cellRescSetSrc: 0x6CD0F95F
+          cellRescSetVBlankHandler: 0xD3758645
+          cellRescSetWaitFlip: 0x0D3C22CE
+          cellRescVideoOutResolutionId2RescBufferMode: 0xD1CA0503

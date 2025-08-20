@@ -1,0 +1,49 @@
+modules:
+  libgem:
+    libraries:
+      libgem:
+        functions:
+          cellGemCalibrate: 0xAFA99EAD
+          cellGemClearStatusFlags: 0x9B9714A4
+          cellGemConvertVideoFinish: 0x1A13D010
+          cellGemConvertVideoStart: 0x6DCE048C
+          cellGemEnableCameraPitchAngleCorrection: 0x4219DE31
+          cellGemEnableMagnetometer: 0x1A2518A2
+          cellGemEnableMagnetometer2: 0xE2E65CFC
+          cellGemEnd: 0xE1F85A80
+          cellGemFilterState: 0x6FC4C791
+          cellGemForceRGB: 0xCE6D7791
+          cellGemGetAccelerometerPositionInDevice: 0x6A5B7048
+          cellGemGetAllTrackableHues: 0x2D2C2764
+          cellGemGetCameraState: 0x8BEFAC67
+          cellGemGetEnvironmentLightingColor: 0x02EB41BB
+          cellGemGetHuePixels: 0xB8EF56A6
+          cellGemGetImageState: 0x92CC4B34
+          cellGemGetInertialState: 0xD37B127A
+          cellGemGetInfo: 0x9E1DFF96
+          cellGemGetMagData: 0x633C3196
+          cellGemGetMemorySize: 0x2E0A170D
+          cellGemGetRGB: 0x1B30CC22
+          cellGemGetRumble: 0x6DB6B007
+          cellGemGetState: 0x6441D38D
+          cellGemGetStatusFlags: 0xFEE33481
+          cellGemGetTrackerHue: 0x18EA899A
+          cellGemHSVtoRGB: 0xC7622586
+          cellGemInit: 0x13EA7C64
+          cellGemInvalidateCalibration: 0xE3E4F0D6
+          cellGemIsTrackableHue: 0xFB5887F9
+          cellGemPrepareCamera: 0xA03EF587
+          cellGemPrepareVideoConvert: 0xC07896F9
+          cellGemReadExternalPortDeviceInfo: 0x11077159
+          cellGemReset: 0xDE54E2FC
+          cellGemSetRumble: 0x49609306
+          cellGemSetYaw: 0x77E08704
+          cellGemTrackHues: 0x928AC5F8
+          cellGemUpdateFinish: 0x41AE9C31
+          cellGemUpdateStart: 0x0ECD2261
+          cellGemWriteExternalPort: 0x1F6328D8
+          libgem_0x0D03DBDC: 0x0D03DBDC
+          libgem_0x0E61785C: 0x0E61785C
+          libgem_0x155CE38B: 0x155CE38B
+          libgem_0x615698B8: 0x615698B8
+          libgem_0xD7B1837D: 0xD7B1837D

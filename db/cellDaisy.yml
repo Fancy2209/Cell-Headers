@@ -1,0 +1,57 @@
+modules:
+  cellSre_Library:
+    libraries:
+      cellDaisy:
+        functions:
+          _QN4cell5Daisy15LFQueue2PopOpenEPNS0_8LFQueue2E: 0x8921232C
+          _QN4cell5Daisy16LFQueue2PopCloseEPNS0_8LFQueue2EPFiPvjE: 0x43838C2A
+          _QN4cell5Daisy16LFQueue2PushOpenEPNS0_8LFQueue2E: 0x437151F0
+          _QN4cell5Daisy17LFQueue2PushCloseEPNS0_8LFQueue2EPFiPvjE: 0xA2E6C4B0
+          _QN4cell5Daisy21LFQueue2GetPopPointerEPNS0_8LFQueue2EPij: 0x6F564A3D
+          _QN4cell5Daisy22ScatterGatherInterlock21proceedSequenceNumberEv: 0xA98E3C4B
+          _QN4cell5Daisy22ScatterGatherInterlock5probeEj: 0xDEB0D2E6
+          _QN4cell5Daisy22ScatterGatherInterlock7releaseEv: 0xFA46FD99
+          _QN4cell5Daisy22ScatterGatherInterlockC1EPVNS0_16_AtomicInterlockEjPjjh: 0x20586BC0
+          _QN4cell5Daisy22ScatterGatherInterlockC1EPVNS0_16_AtomicInterlockEjPvPFiS5_jE: 0x8D42FAE9
+          _QN4cell5Daisy22ScatterGatherInterlockC2EPVNS0_16_AtomicInterlockEjPjjh: 0xB8E85009
+          _QN4cell5Daisy22ScatterGatherInterlockC2EPVNS0_16_AtomicInterlockEjPvPFiS5_jE: 0xA4CD494E
+          _QN4cell5Daisy22ScatterGatherInterlockD1Ev: 0xED37E00A
+          _QN4cell5Daisy22ScatterGatherInterlockD2Ev: 0x7E639D78
+          _QN4cell5Daisy26LFQueue2CompletePopPointerEPNS0_8LFQueue2EiPFiPvjEj: 0xCE618901
+          _QN4cell5Daisy29LFQueue2HasUnfinishedConsumerEPNS0_8LFQueue2Ej: 0x72DEE049
+          _QN4cell5Daisy4Lock10initializeEj: 0x8FD3B122
+          _QN4cell5Daisy4Lock15completeConsumeEj: 0x163DAFEB
+          _QN4cell5Daisy4Lock15completeProduceEj: 0x933C2273
+          _QN4cell5Daisy4Lock18getNextHeadPointerEv: 0xC3E29E69
+          _QN4cell5Daisy4Lock18getNextTailPointerEv: 0xF88E07DB
+          _QN4cell5Daisy4Lock7popOpenEv: 0x1CF82D42
+          _QN4cell5Daisy4Lock8popCloseEv: 0x4C34EC38
+          _QN4cell5Daisy4Lock8pushOpenEv: 0xD888F42A
+          _QN4cell5Daisy4Lock9pushCloseEv: 0xC6C5F3C6
+          _QN4cell5Daisy9_snprintfEPcjPKcz: 0x17348BA6
+          _ZN4cell5Daisy15LFQueue2PopOpenEPNS0_8LFQueue2E: 0xA286B24A
+          _ZN4cell5Daisy16LFQueue2PopCloseEPNS0_8LFQueue2EPFiPvjE: 0x9581B8BC
+          _ZN4cell5Daisy16LFQueue2PushOpenEPNS0_8LFQueue2E: 0xF2034429
+          _ZN4cell5Daisy17LFQueue2PushCloseEPNS0_8LFQueue2EPFiPvjE: 0x0563627C
+          _ZN4cell5Daisy21LFQueue2GetPopPointerEPNS0_8LFQueue2EPij: 0x0D219671
+          _ZN4cell5Daisy22ScatterGatherInterlock21proceedSequenceNumberEv: 0xC0FAF91C
+          _ZN4cell5Daisy22ScatterGatherInterlock5probeEj: 0xD2BE66E6
+          _ZN4cell5Daisy22ScatterGatherInterlock7releaseEv: 0x1CE8C914
+          _ZN4cell5Daisy22ScatterGatherInterlockC1EPVNS0_16_AtomicInterlockEjPjjh: 0x1E5B1E23
+          _ZN4cell5Daisy22ScatterGatherInterlockC1EPVNS0_16_AtomicInterlockEjPvPFiS5_jE: 0x3190DFE4
+          _ZN4cell5Daisy22ScatterGatherInterlockC2EPVNS0_16_AtomicInterlockEjPjjh: 0x34234BF0
+          _ZN4cell5Daisy22ScatterGatherInterlockC2EPVNS0_16_AtomicInterlockEjPvPFiS5_jE: 0xB190D6AD
+          _ZN4cell5Daisy22ScatterGatherInterlockD1Ev: 0x8DACB8D0
+          _ZN4cell5Daisy22ScatterGatherInterlockD2Ev: 0x5A93E4E8
+          _ZN4cell5Daisy26LFQueue2CompletePopPointerEPNS0_8LFQueue2EiPFiPvjEj: 0x1BBCB5B9
+          _ZN4cell5Daisy29LFQueue2HasUnfinishedConsumerEPNS0_8LFQueue2Ej: 0x2BE4DDE1
+          _ZN4cell5Daisy4Lock10initializeEj: 0x2E8654F8
+          _ZN4cell5Daisy4Lock15completeConsumeEj: 0xBD091E26
+          _ZN4cell5Daisy4Lock15completeProduceEj: 0x41DF5D21
+          _ZN4cell5Daisy4Lock18getNextHeadPointerEv: 0x2C967AA1
+          _ZN4cell5Daisy4Lock18getNextTailPointerEv: 0x6FC83371
+          _ZN4cell5Daisy4Lock7popOpenEv: 0x17C35CC9
+          _ZN4cell5Daisy4Lock8popCloseEv: 0x566C9460
+          _ZN4cell5Daisy4Lock8pushOpenEv: 0x706FEED9
+          _ZN4cell5Daisy4Lock9pushCloseEv: 0x7B79D6AA
+          _ZN4cell5Daisy9_snprintfEPcjPKcz: 0x28ACB77F

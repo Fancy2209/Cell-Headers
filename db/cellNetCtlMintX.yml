@@ -1,0 +1,9 @@
+modules:
+  cellNetCtl_Library:
+    libraries:
+      cellNetCtlMintX:
+        functions:
+          cellNetCtlMintXAddHandler: 0xA48E0236
+          cellNetCtlMintXDelHandler: 0x58F795C4
+          cellNetCtlMintXGetInfo: 0x5C95DF57
+          cellNetCtlMintXGetState: 0x1466611F

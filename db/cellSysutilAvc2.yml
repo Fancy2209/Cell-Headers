@@ -1,0 +1,59 @@
+modules:
+  cellSysutilAvc2_Library:
+    libraries:
+      cellSysutilAvc2:
+        functions:
+          cellSysutilAvc2ChangeVideoResolution: 0x07236C83
+          cellSysutilAvc2CreateWindow: 0xA8DC0EFA
+          cellSysutilAvc2DestroyWindow: 0x3A37E7F1
+          cellSysutilAvc2EnumPlayers: 0xB81B9777
+          cellSysutilAvc2EstimateMemoryContainerSize: 0x2F280883
+          cellSysutilAvc2GetAttribute: 0x1BE2B4E0
+          cellSysutilAvc2GetPlayerInfo: 0x02C5417A
+          cellSysutilAvc2GetPlayerVoiceMuting: 0x5F3811F8
+          cellSysutilAvc2GetScreenShowStatus: 0xE40E3DFC
+          cellSysutilAvc2GetSpeakerMuting: 0xA9F5B75C
+          cellSysutilAvc2GetSpeakerVolumeLevel: 0x3EF4F668
+          cellSysutilAvc2GetVideoMuting: 0x0F5A2AFB
+          cellSysutilAvc2GetVoiceMuting: 0xDF2ED367
+          cellSysutilAvc2GetWindowAttribute: 0x103D6B46
+          cellSysutilAvc2GetWindowPosition: 0xFC2873A9
+          cellSysutilAvc2GetWindowShowStatus: 0x82CED772
+          cellSysutilAvc2GetWindowSize: 0x8A40A618
+          cellSysutilAvc2GetWindowString: 0xB856B63F
+          cellSysutilAvc2HideScreen: 0xD7D6272F
+          cellSysutilAvc2HideWindow: 0xDE6AFC37
+          cellSysutilAvc2InitParam: 0x89456724
+          cellSysutilAvc2IsCameraAttached: 0x4C4B9665
+          cellSysutilAvc2IsMicAttached: 0xA26AA437
+          cellSysutilAvc2JoinChat: 0x02DC41EE
+          cellSysutilAvc2JoinChatRequest: 0x712D51D6
+          cellSysutilAvc2LeaveChat: 0xBF022284
+          cellSysutilAvc2LeaveChatRequest: 0x97B2DA6A
+          cellSysutilAvc2Load: 0xC6C93D62
+          cellSysutilAvc2LoadAsync: 0x1D73AB8C
+          cellSysutilAvc2MicRead: 0x55D7BBFD
+          cellSysutilAvc2SetAttribute: 0xCCF0AEFF
+          cellSysutilAvc2SetPlayerVoiceMuting: 0x31FC8B92
+          cellSysutilAvc2SetSpeakerMuting: 0xC35ED665
+          cellSysutilAvc2SetSpeakerVolumeLevel: 0x207621A8
+          cellSysutilAvc2SetStreamPriority: 0x8C2F5BE3
+          cellSysutilAvc2SetStreamingTarget: 0x3447668A
+          cellSysutilAvc2SetVideoMuting: 0x2FC0AB58
+          cellSysutilAvc2SetVoiceMuting: 0x14937714
+          cellSysutilAvc2SetWindowAttribute: 0x7A69ECC1
+          cellSysutilAvc2SetWindowPosition: 0x3C8C827C
+          cellSysutilAvc2SetWindowSize: 0xAEE75751
+          cellSysutilAvc2SetWindowString: 0x225142BD
+          cellSysutilAvc2ShowScreen: 0x0B45CD84
+          cellSysutilAvc2ShowWindow: 0xAC170042
+          cellSysutilAvc2StartStreaming: 0x74D22119
+          cellSysutilAvc2StartStreaming2: 0xD42657DD
+          cellSysutilAvc2StartVoiceDetection: 0x16FF9BA0
+          cellSysutilAvc2StopStreaming: 0x04E1E1E4
+          cellSysutilAvc2StopStreaming2: 0x11F071CB
+          cellSysutilAvc2StopVoiceDetection: 0x178982D9
+          cellSysutilAvc2Unload: 0x38F33624
+          cellSysutilAvc2Unload2: 0xF3B5FF77
+          cellSysutilAvc2UnloadAsync: 0x17481336
+          cellSysutilAvc2UnloadAsync2: 0xCE6780C9

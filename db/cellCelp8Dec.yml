@@ -1,0 +1,6 @@
+modules:
+  cellCelp8Dec_Library:
+    libraries:
+      cellCelp8Dec:
+        functions:
+          _SceAdecCorrectPtsValue_Celp8: 0x881583C3

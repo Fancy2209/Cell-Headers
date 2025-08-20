@@ -1,0 +1,30 @@
+modules:
+  cellGame_Library:
+    libraries:
+      cellGame:
+        functions:
+          cellGameBootCheck: 0xF52639EA
+          cellGameContentErrorDialog: 0xB0A1F8C6
+          cellGameContentPermit: 0x70ACEC67
+          cellGameCreateGameData: 0x42A2E133
+          cellGameDataCheck: 0xDB9819F3
+          cellGameDeleteGameData: 0xB367C6E3
+          cellGameGetDiscContentInfoUpdatePath: 0x2A8E6B92
+          cellGameGetLocalWebContentPath: 0xA80BF223
+          cellGameGetParamInt: 0xB7A45CAF
+          cellGameGetParamString: 0x3A5D726A
+          cellGameGetSizeKB: 0xEF9D42D5
+          cellGamePatchCheck: 0xCE4374F6
+          cellGameSetParamString: 0xDAA5CD20
+          cellGameThemeInstall: 0xD24E3928
+          cellGameThemeInstallFromBuffer: 0x87406734
+          cellGame_0x130BF824: 0x130BF824
+          cellGame_0x23EC78CE: 0x23EC78CE
+          cellGame_0x47DB7335: 0x47DB7335
+          cellGame_0x50771F25: 0x50771F25
+          cellGame_0x5A067101: 0x5A067101
+          cellGame_0x78C7CBB5: 0x78C7CBB5
+          cellGame_0x8DBD9594: 0x8DBD9594
+          cellGame_0x9C79F4F1: 0x9C79F4F1
+          cellGame_0xD7724C0A: 0xD7724C0A
+          cellGame_0xE2256137: 0xE2256137

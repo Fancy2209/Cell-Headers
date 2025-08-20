@@ -1,0 +1,52 @@
+modules:
+  cellFiber_Library:
+    libraries:
+      cellFiber:
+        functions:
+          _cellFiberPpuAttributeInitialize: 0xC11F8056
+          _cellFiberPpuContextAttributeInitialize: 0x31252EC3
+          _cellFiberPpuInitialize: 0x55870804
+          _cellFiberPpuSchedulerAttributeInitialize: 0x9E25C72D
+          _cellFiberPpuUtilWorkerControlAttributeInitialize: 0x68BA4568
+          cellFiberPpuCheckFlags: 0xF6C6900C
+          cellFiberPpuCheckStackLimit: 0xF3E81219
+          cellFiberPpuContextCheckStackLimit: 0xB90C871B
+          cellFiberPpuContextEnterScheduler: 0x0A25B6C8
+          cellFiberPpuContextFinalize: 0xB3A48079
+          cellFiberPpuContextInitialize: 0x72086315
+          cellFiberPpuContextReturnToThread: 0x01036193
+          cellFiberPpuContextRun: 0xABA1C563
+          cellFiberPpuContextRunScheduler: 0x081C98BE
+          cellFiberPpuContextSelf: 0x34A81091
+          cellFiberPpuContextSwitch: 0xD0066B17
+          cellFiberPpuCreateFiber: 0x7C2F4034
+          cellFiberPpuExit: 0xFA8D5F95
+          cellFiberPpuFinalizeScheduler: 0x8B6BAA01
+          cellFiberPpuGetScheduler: 0xB0594B2D
+          cellFiberPpuHasRunnableFiber: 0xE492A675
+          cellFiberPpuInitializeScheduler: 0xEE3B604D
+          cellFiberPpuJoinFiber: 0xA6004249
+          cellFiberPpuRunFibers: 0x12B1ACF0
+          cellFiberPpuSchedulerTraceFinalize: 0x3860A12A
+          cellFiberPpuSchedulerTraceInitialize: 0xBF9CD933
+          cellFiberPpuSchedulerTraceStart: 0xADEDBEBF
+          cellFiberPpuSchedulerTraceStop: 0xE665F9A9
+          cellFiberPpuSelf: 0x5D9A7034
+          cellFiberPpuSendSignal: 0x8AFB8356
+          cellFiberPpuSetPriority: 0xFBF5FE40
+          cellFiberPpuUtilWorkerControlCheckFlags: 0xEA6DC1AD
+          cellFiberPpuUtilWorkerControlConnectEventQueueToSpurs: 0x62A20F0D
+          cellFiberPpuUtilWorkerControlCreateFiber: 0xBFCA88D3
+          cellFiberPpuUtilWorkerControlDisconnectEventQueue: 0x4FC86B2C
+          cellFiberPpuUtilWorkerControlFinalize: 0xA27C95CA
+          cellFiberPpuUtilWorkerControlInitialize: 0x3204B146
+          cellFiberPpuUtilWorkerControlInitializeWithAttribute: 0xF2CCAD4F
+          cellFiberPpuUtilWorkerControlJoinFiber: 0x3B417F82
+          cellFiberPpuUtilWorkerControlRunFibers: 0x1E7A247A
+          cellFiberPpuUtilWorkerControlSendSignal: 0x5D3992DD
+          cellFiberPpuUtilWorkerControlSetPollingMode: 0x392C5AA5
+          cellFiberPpuUtilWorkerControlShutdown: 0xC04E2438
+          cellFiberPpuUtilWorkerControlWakeup: 0xBABF714B
+          cellFiberPpuWaitFlag: 0xA4599CF3
+          cellFiberPpuWaitSignal: 0x6C164B3B
+          cellFiberPpuYield: 0x0C44F441

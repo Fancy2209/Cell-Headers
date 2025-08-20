@@ -1,0 +1,6 @@
+modules:
+  cellSailAvi_Library:
+    libraries:
+      cellSailAvi:
+        functions:
+          cellSailAvi_0x9B02DB99: 0x9B02DB99

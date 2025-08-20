@@ -1,0 +1,19 @@
+modules:
+  cellKey2char_Library:
+    libraries:
+      cellKey2char:
+        functions:
+          cellKey2CharClose: 0x14BF2DC1
+          cellKey2CharGetChar: 0x56776C0D
+          cellKey2CharOpen: 0xABF629C1
+          cellKey2CharSetArrangement: 0x0DFBADFA
+          cellKey2CharSetMode: 0xBFC03768
+          cellKey2char_0x1B5F6EFC: 0x1B5F6EFC
+          cellKey2char_0x28893D81: 0x28893D81
+          cellKey2char_0x291ADBA5: 0x291ADBA5
+          cellKey2char_0x51667234: 0x51667234
+          cellKey2char_0x7F8E6F3E: 0x7F8E6F3E
+          cellKey2char_0x83E91458: 0x83E91458
+          cellKey2char_0xAE4B34E6: 0xAE4B34E6
+          cellKey2char_0xE5D1F9B0: 0xE5D1F9B0
+          cellKey2char_0xEAE114F6: 0xEAE114F6

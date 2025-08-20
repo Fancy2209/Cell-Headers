@@ -1,0 +1,36 @@
+modules:
+  cellRudp_Library:
+    libraries:
+      cellRudp:
+        functions:
+          cellRudpAccept: 0x9AA6A321
+          cellRudpActivate: 0xC1AD7CED
+          cellRudpBind: 0xEE41E16A
+          cellRudpCreateContext: 0x7DADC739
+          cellRudpEnableInternalIOThread: 0x6C0CFF03
+          cellRudpEnd: 0xB6BCB4A1
+          cellRudpFlush: 0xA70737DA
+          cellRudpGetContextStatus: 0x74BFAD12
+          cellRudpGetLocalInfo: 0xD666931F
+          cellRudpGetMaxSegmentSize: 0xFBF7E9E4
+          cellRudpGetOption: 0xFF9D259C
+          cellRudpGetRemoteInfo: 0x576831AE
+          cellRudpGetSizeReadable: 0x2CDE989F
+          cellRudpGetSizeWritable: 0xA86B28E3
+          cellRudpGetStatus: 0xCD1A3F23
+          cellRudpInit: 0x63F63545
+          cellRudpInitiate: 0xC407844F
+          cellRudpListen: 0xB988502C
+          cellRudpNetReceived: 0x6EE04954
+          cellRudpPollCancel: 0xDF5A2432
+          cellRudpPollControl: 0xA3DB855C
+          cellRudpPollCreate: 0x6BC587E9
+          cellRudpPollDestroy: 0x8AC398F1
+          cellRudpPollWait: 0xD8310700
+          cellRudpProcessEvents: 0xFADE48B2
+          cellRudpRead: 0x92E4D899
+          cellRudpSetEventHandler: 0x7ED95E60
+          cellRudpSetMaxSegmentSize: 0x54F81789
+          cellRudpSetOption: 0x384BA777
+          cellRudpTerminate: 0x48D3EEAC
+          cellRudpWrite: 0x48C001B0

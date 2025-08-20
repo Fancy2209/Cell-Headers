@@ -1,0 +1,26 @@
+modules:
+  cellJpgEnc_Library:
+    libraries:
+      cellJpgEnc:
+        functions:
+          cellJpgEncClose: 0x969FC5F7
+          cellJpgEncCoreClose: 0xF0AECBC3
+          cellJpgEncCoreCreate: 0x7AA1AA12
+          cellJpgEncCoreDestroy: 0x09A4A040
+          cellJpgEncCoreEncodeData: 0xC334F696
+          cellJpgEncCoreEncodeData2: 0xECE28921
+          cellJpgEncCoreExtCreate: 0x51779828
+          cellJpgEncCoreOpen: 0xBEB9EE7A
+          cellJpgEncCoreWriteHeader: 0x5C0C3486
+          cellJpgEncCoreWriteHeader2: 0xE3A0827E
+          cellJpgEncEncodePicture: 0xA9E81214
+          cellJpgEncEncodePicture2: 0x636DC89E
+          cellJpgEncGetStreamInfo: 0x4262E880
+          cellJpgEncOpen: 0xA4BFAE51
+          cellJpgEncOpenEx: 0x6F2D371C
+          cellJpgEncQueryAttr: 0x12D9B6C5
+          cellJpgEncReset: 0x0CF2B78B
+          cellJpgEncWaitForInput: 0x2AE79BE8
+          cellJpgEncWaitForOutput: 0x9B4E3A74
+          cellJpgEnc_0x0DB3FD1D: 0x0DB3FD1D
+          cellJpgEnc_0xC606034C: 0xC606034C

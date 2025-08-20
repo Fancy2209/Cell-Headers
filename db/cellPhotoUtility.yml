@@ -1,0 +1,14 @@
+modules:
+  cellPhotoUtility:
+    libraries:
+      cellPhotoUtility:
+        functions:
+          cellPhotoExportFinalize: 0xED4A0148
+          cellPhotoExportFromFile: 0x09CE84AC
+          cellPhotoExportFromFileWithCopy: 0x8D14D09B
+          cellPhotoExportInitialize: 0x4357C77F
+          cellPhotoExportInitialize2: 0x08CBD8E1
+          cellPhotoExportProgress: 0xDE509EAD
+          cellPhotoFinalize: 0x3F7FC0AF
+          cellPhotoInitialize: 0x55C70783
+          cellPhotoRegistFromFile: 0x42A32983

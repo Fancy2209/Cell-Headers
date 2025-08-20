@@ -1,0 +1,40 @@
+modules:
+  cellVoice_Library:
+    libraries:
+      cellVoice:
+        functions:
+          cellVoiceConnectIPortToOPort: 0xAE6A21D5
+          cellVoiceCreateNotifyEventQueue: 0x2A01013E
+          cellVoiceCreatePort: 0x2DE54871
+          cellVoiceDebugTopology: 0x20BAFE31
+          cellVoiceDeletePort: 0x9F70C475
+          cellVoiceDisconnectIPortFromOPort: 0x18D3DF30
+          cellVoiceEnd: 0xE0E1AE12
+          cellVoiceGetBitRate: 0xBEF53A2B
+          cellVoiceGetMuteFlag: 0x474609E2
+          cellVoiceGetPortAttr: 0xF629ED67
+          cellVoiceGetPortInfo: 0x54AC3519
+          cellVoiceGetSignalState: 0xD6811AA7
+          cellVoiceGetVolume: 0x762DC193
+          cellVoiceInit: 0xC7CF1182
+          cellVoiceInitEx: 0xB1A2C38F
+          cellVoicePausePort: 0x87C71B06
+          cellVoicePausePortAll: 0xD14E784D
+          cellVoiceReadFromOPort: 0x36472C57
+          cellVoiceRemoveNotifyEventQueue: 0xDD000886
+          cellVoiceResetPort: 0xFF0FA43A
+          cellVoiceResumePort: 0x7BF17B15
+          cellVoiceResumePortAll: 0x7F3963F7
+          cellVoiceSetBitRate: 0x7E60ADC6
+          cellVoiceSetMuteFlag: 0xDDE35A0C
+          cellVoiceSetMuteFlagAll: 0xD4D80EA5
+          cellVoiceSetNotifyEventQueue: 0x35D84910
+          cellVoiceSetPortAttr: 0x9D0F4AF1
+          cellVoiceSetVolume: 0xD5AE37D8
+          cellVoiceStart: 0x0A563878
+          cellVoiceStartEx: 0x94D51F92
+          cellVoiceStop: 0xD3A84BE1
+          cellVoiceUpdatePort: 0x2F24FEA3
+          cellVoiceWriteToIPort: 0x3DAD26E7
+          cellVoiceWriteToIPortEx: 0x30F0B5AB
+          cellVoiceWriteToIPortEx2: 0xC4F573B8

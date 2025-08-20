@@ -1,0 +1,7 @@
+modules:
+  cellSearchUtility:
+    libraries:
+      cellSearchUtilityContentManage:
+        functions:
+          cellSearchUtilityContentManage_0x032B0B5F: 0x032B0B5F
+          cellSearchUtilityContentManage_0x69F9EBF3: 0x69F9EBF3

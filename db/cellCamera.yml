@@ -1,0 +1,48 @@
+modules:
+  cellCamera_Library:
+    libraries:
+      cellCamera:
+        functions:
+          cellCameraClose: 0x379C5DD6
+          cellCameraCloseAsync: 0x16B4BA78
+          cellCameraClosePost: 0x0CBEDF6A
+          cellCameraCtrlExtensionUnit: 0xEB6F95FB
+          cellCameraEnd: 0x5AD46570
+          cellCameraGetAttribute: 0x532B8AAA
+          cellCameraGetBufferInfo: 0x10697D7F
+          cellCameraGetBufferInfoEx: 0x0E63C444
+          cellCameraGetBufferSize: 0x7DAC520C
+          cellCameraGetDeviceGUID: 0x602E2052
+          cellCameraGetExtensionUnit: 0xB602E328
+          cellCameraGetType: 0x58BC5870
+          cellCameraInit: 0xBF47C5DD
+          cellCameraIsAttached: 0x7E063BBC
+          cellCameraIsAvailable: 0x8CA53DDE
+          cellCameraIsOpen: 0xFA160F24
+          cellCameraIsStarted: 0x5EEBF24E
+          cellCameraOpen: 0x85E1B8DA
+          cellCameraOpenAsync: 0xC76BC1B4
+          cellCameraOpenEx: 0x5D25F866
+          cellCameraOpenPost: 0x4C0219A5
+          cellCameraPrepExtensionUnit: 0x61DFBE83
+          cellCameraRead: 0x3845D39B
+          cellCameraRead2: 0xE25C7B03
+          cellCameraReadComplete: 0xE28B206B
+          cellCameraReadEx: 0x21FC151F
+          cellCameraRemoveNotifyEventQueue: 0x9B98D258
+          cellCameraRemoveNotifyEventQueue2: 0x44673F07
+          cellCameraReset: 0x81F83DB9
+          cellCameraResetAsync: 0x18B294D0
+          cellCameraResetAttribute: 0x1350864E
+          cellCameraResetPost: 0xA65CE0F8
+          cellCameraSetAttribute: 0x8CD56EEE
+          cellCameraSetContainer: 0x090EB5C8
+          cellCameraSetExtensionUnit: 0x2DEA3E9B
+          cellCameraSetNotifyEventQueue: 0xB0647E5A
+          cellCameraSetNotifyEventQueue2: 0xA7FD2F5B
+          cellCameraStart: 0x456DC4AA
+          cellCameraStartAsync: 0x77D8037F
+          cellCameraStartPost: 0x5D134C93
+          cellCameraStop: 0x02F5CED0
+          cellCameraStopAsync: 0x3C1FF1E0
+          cellCameraStopPost: 0xBB5C565B

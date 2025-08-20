@@ -1,0 +1,6 @@
+modules:
+  ad_billboard_util:
+    libraries:
+      libad_billboard_util:
+        functions:
+          libad_billboard_util_0x47BC7BED: 0x47BC7BED

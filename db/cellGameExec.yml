@@ -1,0 +1,15 @@
+modules:
+  cellGameExec_Library:
+    libraries:
+      cellGameExec:
+        functions:
+          cellGameDeleteGame: 0x34B74160
+          cellGameExecGame: 0xCA872C41
+          cellGameExec_0x7767C4E3: 0x7767C4E3
+          cellGameGetBootGameInfo: 0xF6ACD0BC
+          cellGameGetHomeDataExportPath: 0x59B1EDE1
+          cellGameGetHomeDataImportPath: 0x72CC6CF7
+          cellGameGetHomeLaunchOptionPath: 0x94E9F81D
+          cellGameGetHomePath: 0x59BBEBD4
+          cellGameGetList: 0x93D4AE69
+          cellGameSetExitParam: 0x38579EC9

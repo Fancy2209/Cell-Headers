@@ -1,0 +1,6 @@
+modules:
+  cellStorageData_Library:
+    libraries:
+      cellStorageData:
+        functions:
+          cellStorageDataExportDirectory: 0xFA87FA54

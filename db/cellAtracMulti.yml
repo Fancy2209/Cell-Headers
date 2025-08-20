@@ -1,0 +1,30 @@
+modules:
+  cellAtracMulti_Library:
+    libraries:
+      cellAtracMulti:
+        functions:
+          cellAtracMultiAddStreamData: 0x1AE28192
+          cellAtracMultiCreateDecoder: 0x0FFB4665
+          cellAtracMultiCreateDecoderExt: 0xB23F070A
+          cellAtracMultiDecode: 0xD86ACB12
+          cellAtracMultiDeleteDecoder: 0x780A18BB
+          cellAtracMultiGetBitrate: 0x6CFF1D7F
+          cellAtracMultiGetBufferInfoForResetting: 0xDE9B7905
+          cellAtracMultiGetChannel: 0xF11B8DD5
+          cellAtracMultiGetInternalErrorInfo: 0x92D48677
+          cellAtracMultiGetLoopInfo: 0xB91967BC
+          cellAtracMultiGetMaxSample: 0xD85F2D10
+          cellAtracMultiGetNextDecodePosition: 0x489E22F1
+          cellAtracMultiGetNextSample: 0x77BD901A
+          cellAtracMultiGetRemainFrame: 0x59431D1B
+          cellAtracMultiGetSamplingRate: 0xF197CCAA
+          cellAtracMultiGetSecondBufferInfo: 0xED30F1FA
+          cellAtracMultiGetSoundInfo: 0xC5C5EED3
+          cellAtracMultiGetStreamDataInfo: 0x670B2721
+          cellAtracMultiGetTrackArray: 0x5B6CCF5A
+          cellAtracMultiGetVacantSize: 0x60B2101D
+          cellAtracMultiIsSecondBufferNeeded: 0xF8B1AB0C
+          cellAtracMultiResetPlayPosition: 0x9119CFD1
+          cellAtracMultiSetDataAndGetMemSize: 0x81B22CA8
+          cellAtracMultiSetLoopNum: 0xDA43F526
+          cellAtracMultiSetSecondBuffer: 0x659775FB

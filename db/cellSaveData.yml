@@ -1,0 +1,17 @@
+modules:
+  cellSaveData_Library:
+    libraries:
+      cellSaveData:
+        functions:
+          cellSaveDataFixedExport: 0x46A2D878
+          cellSaveDataFixedImport: 0x52541151
+          cellSaveDataGetListItem: 0x04C06FC2
+          cellSaveDataListDelete: 0x27CB8BC2
+          cellSaveDataListExport: 0x491CC554
+          cellSaveDataListImport: 0x6B4E0DE6
+          cellSaveDataUserFixedExport: 0x95AE2CDE
+          cellSaveDataUserFixedImport: 0x529231B0
+          cellSaveDataUserGetListItem: 0xF6482036
+          cellSaveDataUserListDelete: 0x7048A9BA
+          cellSaveDataUserListExport: 0x273D116A
+          cellSaveDataUserListImport: 0x39D6EE43

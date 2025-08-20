@@ -1,0 +1,35 @@
+modules:
+  cellVideoPlUtility_Library:
+    libraries:
+      cellVideoPlayerUtility:
+        functions:
+          cellVideoPlayerClose: 0x801DB596
+          cellVideoPlayerEndThumbnail: 0xAFAFEDB1
+          cellVideoPlayerFinalize: 0x72440039
+          cellVideoPlayerGetAudioTrackInfo: 0x14358CCC
+          cellVideoPlayerGetAudioTrackNumber: 0x5D02B091
+          cellVideoPlayerGetOutputPicture: 0xDF07BE79
+          cellVideoPlayerGetOutputStereoPicture: 0xD9C63AFB
+          cellVideoPlayerGetPlaybackStatus: 0xDC9462C5
+          cellVideoPlayerGetSubtitleTrackInfo: 0xBF1DC25B
+          cellVideoPlayerGetSubtitleTrackNumber: 0xD763903D
+          cellVideoPlayerGetTransferPictureInfo: 0x8528C19A
+          cellVideoPlayerGetVolume: 0x69452CBA
+          cellVideoPlayerInitialize: 0x4B77752F
+          cellVideoPlayerInitializeStereoVideo: 0xF0C7C488
+          cellVideoPlayerOpen: 0xB5542E5A
+          cellVideoPlayerOpenContentId: 0x507363CB
+          cellVideoPlayerOpenFileId: 0x07EE139A
+          cellVideoPlayerPlaybackControl: 0xF16D10CB
+          cellVideoPlayerSetAudioTrack: 0xD2E0318E
+          cellVideoPlayerSetDownloadPosition: 0x8CBDCBAC
+          cellVideoPlayerSetFileIoCallback: 0xB312E53F
+          cellVideoPlayerSetStartPosition: 0x5C1872F1
+          cellVideoPlayerSetStopPosition: 0x7C4BA244
+          cellVideoPlayerSetSubtitleTrack: 0x6BBD3AC3
+          cellVideoPlayerSetTransferComplete: 0xDD3D7EC0
+          cellVideoPlayerSetVolume: 0xC50303B2
+          cellVideoPlayerStartThumbnail: 0xA2B8AF7C
+          cellVideoPlayerTransferPicture: 0xA85AED2E
+          cellVideoPlayerUtility_0x09544995: 0x09544995
+          cellVideoPlayerUtility_0xD3B6BDC9: 0xD3B6BDC9

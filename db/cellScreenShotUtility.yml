@@ -1,0 +1,9 @@
+modules:
+  cellScreenShotUtility:
+    libraries:
+      cellScreenShotUtility:
+        functions:
+          cellScreenShotDisable: 0xFC6F4E74
+          cellScreenShotEnable: 0x9E33AB8F
+          cellScreenShotSetOverlayImage: 0x7A9C2243
+          cellScreenShotSetParameter: 0xD3AD63E4

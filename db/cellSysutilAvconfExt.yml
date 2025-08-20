@@ -1,0 +1,29 @@
+modules:
+  cellAvconfExt_Library:
+    libraries:
+      cellSysutilAvconfExt:
+        functions:
+          cellAudioInGetAvailableDeviceInfo: 0x65BF9EA3
+          cellAudioInGetDeviceInfo: 0x3D5730CE
+          cellAudioInRegisterDevice: 0xEB6FCFF1
+          cellAudioInSetDeviceMode: 0xEB6C50FB
+          cellAudioInUnregisterDevice: 0xFA6BCC17
+          cellAudioOutConfigure2: 0xFA611DF4
+          cellAudioOutGetAvailableDeviceInfo: 0xC3273D9B
+          cellAudioOutGetConfiguration2: 0x44D2BA34
+          cellAudioOutGetDeviceInfo2: 0x18D0ADA6
+          cellAudioOutRegisterDevice: 0xC7087631
+          cellAudioOutSetDeviceMode: 0xE4645AF8
+          cellAudioOutUnregisterDevice: 0x0BDDEF7D
+          cellSysutilAvconfExt_0x0F8ABE05: 0x0F8ABE05
+          cellSysutilAvconfExt_0x2BAF4A33: 0x2BAF4A33
+          cellSysutilAvconfExt_0x341D9459: 0x341D9459
+          cellVideoOutConfigure2: 0x9FAA12BE
+          cellVideoOutConvertCursorColor: 0x4EC8C141
+          cellVideoOutGetGamma: 0x655A0364
+          cellVideoOutGetResolutionAvailability2: 0x21036F4E
+          cellVideoOutGetScreenSize: 0xFAA275A4
+          cellVideoOutSetCopyControl: 0x1A324E03
+          cellVideoOutSetGamma: 0xC7020F62
+          cellVideoOutSetXVColor: 0x1CFA1A11
+          cellVideoOutSetupDisplay: 0x269FFEDD

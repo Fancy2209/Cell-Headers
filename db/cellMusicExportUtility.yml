@@ -1,0 +1,10 @@
+modules:
+  cellMusicExportUtility:
+    libraries:
+      cellMusicExportUtility:
+        functions:
+          cellMusicExportFinalize: 0xE90EFFEA
+          cellMusicExportFromFile: 0xB202F0E8
+          cellMusicExportInitialize: 0xB4C9B4F9
+          cellMusicExportInitialize2: 0xE0443A44
+          cellMusicExportProgress: 0x92B50EBC

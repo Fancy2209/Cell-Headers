@@ -1,0 +1,19 @@
+modules:
+  cellM2AACenc_Library:
+    libraries:
+      cellM2AACenc:
+        functions:
+          cellM2AACenc_0x49C2841B: 0x49C2841B
+          naacEncClear: 0x893A7450
+          naacEncCreateInstance: 0x9E460733
+          naacEncEncode: 0x7E9FA832
+          naacEncFlush: 0x8549EE34
+          naacEncGetAdifHeader: 0xD9E960B2
+          naacEncGetBufferRequest: 0x48E5EAA9
+          naacEncGetDelay: 0xD46148F5
+          naacEncGetLibraryVersion: 0xDC57C0AC
+          naacEncGetPce: 0x7E8B6001
+          naacEncInit: 0x352D9BFD
+          naacEncQueryMemorySize: 0x82AAB310
+          naacEncReleaseInstance: 0xB51A9CCB
+          naacEncSetPCE: 0x3DCC2354

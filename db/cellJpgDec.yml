@@ -1,0 +1,23 @@
+modules:
+  cellJpgDec_Library:
+    libraries:
+      cellJpgDec:
+        functions:
+          cellJpgDecClose: 0x9338A07A
+          cellJpgDecCreate: 0xA7978F59
+          cellJpgDecDecodeData: 0xAF8BB012
+          cellJpgDecDestroy: 0xD8EA91F8
+          cellJpgDecExtCreate: 0x8B300F66
+          cellJpgDecExtDecodeData: 0x716F8792
+          cellJpgDecExtOpen: 0xA9F703E3
+          cellJpgDecExtReadHeader: 0xB91EB3D2
+          cellJpgDecExtSetParameter: 0x65CBBB16
+          cellJpgDecOpen: 0x976CA5C2
+          cellJpgDecReadHeader: 0x6D9EBCCF
+          cellJpgDecSetParameter: 0xE08F3910
+          cellJpgDecSpSetOpenMode: 0xC73ED848
+          cellJpgDec_0x2040B89D: 0x2040B89D
+          cellJpgDec_0xCD06942A: 0xCD06942A
+          cellJpgDec_0xD92D2667: 0xD92D2667
+          cellJpgDec_0xDB9AFFCE: 0xDB9AFFCE
+          cellJpgDec_0xDDC1202A: 0xDDC1202A

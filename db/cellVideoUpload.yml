@@ -1,0 +1,6 @@
+modules:
+  cellVideoUpload_Library:
+    libraries:
+      cellVideoUpload:
+        functions:
+          cellVideoUploadInitialize: 0x122E0D0F

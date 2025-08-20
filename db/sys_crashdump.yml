@@ -1,0 +1,7 @@
+modules:
+  sys_lv2coredump_Library:
+    libraries:
+      sys_crashdump:
+        functions:
+          sys_crash_dump_get_user_log_area: 0x52696620
+          sys_crash_dump_set_user_log_area: 0xB20F87B3

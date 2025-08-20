@@ -1,0 +1,6 @@
+modules:
+  cellSysconfExtUtility:
+    libraries:
+      cellSysconfExtUtility:
+        functions:
+          cellSysconfBtGetDeviceList: 0x08DB2ADF

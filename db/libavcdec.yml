@@ -1,0 +1,15 @@
+modules:
+  libavcdec_Library:
+    libraries:
+      libavcdec:
+        functions:
+          avcDecAccessUnit: 0xF1A9AF6F
+          avcDecClose: 0xC68B81BF
+          avcDecFlush: 0x765DE1B4
+          avcDecGetStatus: 0xD83259E8
+          avcDecGetVersion: 0x5267175E
+          avcDecOpen: 0x9D523894
+          avcDecQueryCharacteristics: 0x00E2D84B
+          avcDecQueryMemory: 0xDF6F03FC
+          avcDecReset: 0x3A92F3DF
+          avcDecRlsFrame: 0xE1134B5D

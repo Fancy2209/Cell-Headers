@@ -1,0 +1,7 @@
+modules:
+  sceNp_Library:
+    libraries:
+      sceNpManagerInt:
+        functions:
+          sceNpManagerGetPassword: 0x3436C901
+          sceNpManagerSignout: 0x6ACAC985

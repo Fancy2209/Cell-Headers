@@ -1,0 +1,14 @@
+modules:
+  cellCelp8Enc_Library:
+    libraries:
+      cellCelp8Enc:
+        functions:
+          cellCelp8EncClose: 0xFD2566B4
+          cellCelp8EncEncodeFrame: 0x2099F86E
+          cellCelp8EncEnd: 0xBBBC2C1C
+          cellCelp8EncGetAu: 0x48C5020D
+          cellCelp8EncOpen: 0x2EB6EFEE
+          cellCelp8EncOpenEx: 0xCD48AD62
+          cellCelp8EncQueryAttr: 0x2D677E0C
+          cellCelp8EncStart: 0x0F6AB57B
+          cellCelp8EncWaitForOutput: 0x29DA1EA6

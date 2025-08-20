@@ -1,0 +1,41 @@
+modules:
+  cellUsbd_Library:
+    libraries:
+      cellUsbd:
+        functions:
+          cellUsbdAllocateMemory: 0x074DBB39
+          cellUsbdAllocateMemoryFromContainer: 0xD8F3972D
+          cellUsbdAllocateSharedMemory: 0x7D220599
+          cellUsbdBulkTransfer: 0xAC77EB78
+          cellUsbdClosePipe: 0x9763E962
+          cellUsbdControlTransfer: 0x97CF128E
+          cellUsbdEnableWakeOn: 0xC9FFC854
+          cellUsbdEnd: 0x35F22AC3
+          cellUsbdFreeMemory: 0x4E456E81
+          cellUsbdGetDeviceLocation: 0xDB819E03
+          cellUsbdGetDeviceSpeed: 0xBDBD2428
+          cellUsbdGetFrameNumber: 0xA0ED322E
+          cellUsbdGetPrivateData: 0x5DE3AF36
+          cellUsbdGetThreadPriority: 0xD5263DEA
+          cellUsbdHSIsochronousTransfer: 0x7A1B6EAB
+          cellUsbdInit: 0xD0E766FE
+          cellUsbdInterruptTransfer: 0x0F411262
+          cellUsbdIsochronousTransfer: 0xDE58C4C2
+          cellUsbdOpenPipe: 0x254289AC
+          cellUsbdRegisterCompositeLdd: 0xA4088179
+          cellUsbdRegisterExtraLdd: 0x7FE92C54
+          cellUsbdRegisterExtraLdd2: 0xBD554BCB
+          cellUsbdRegisterLdd: 0x359BEFBA
+          cellUsbdResetDevice: 0xD87D972D
+          cellUsbdScanStaticDescriptor: 0x2FB08E1E
+          cellUsbdSetPrivateData: 0x63BFDB97
+          cellUsbdSetThreadPriority: 0xC24AF1D7
+          cellUsbdSetThreadPriority2: 0x5C832BD7
+          cellUsbdUnregisterCompositeLdd: 0x5AB62AF9
+          cellUsbdUnregisterExtraLdd: 0x90460081
+          cellUsbdUnregisterLdd: 0x64951AC7
+          cellUsbd_0x11B2155A: 0x11B2155A
+          cellUsbd_0x1255A907: 0x1255A907
+          cellUsbd_0x252CE24F: 0x252CE24F
+          cellUsbd_0x850D17ED: 0x850D17ED
+          cellUsbd_0xCE0773CF: 0xCE0773CF

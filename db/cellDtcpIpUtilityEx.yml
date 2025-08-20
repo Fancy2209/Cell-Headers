@@ -1,0 +1,7 @@
+modules:
+  cellDtcpIpUtility_Library:
+    libraries:
+      cellDtcpIpUtilityEx:
+        functions:
+          cellDtcpIpOpenEx: 0x4654188A
+          cellDtcpIpSetEncryptedDataEx: 0xB17436B5

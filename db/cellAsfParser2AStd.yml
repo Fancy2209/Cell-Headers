@@ -1,0 +1,25 @@
+modules:
+  cellAsfParser2AStd_Library:
+    libraries:
+      cellAsfParser2AStd:
+        functions:
+          cellAsfParser2AStdCheckNeedMem: 0x475C64F0
+          cellAsfParser2AStdGetFrameData: 0xBD473829
+          cellAsfParser2AStdGetNextFrameInfo: 0xA0126AA6
+          cellAsfParser2AStdGetNonStreamObjectInfo: 0x34944F04
+          cellAsfParser2AStdGetPacketInfo: 0xFF4BD923
+          cellAsfParser2AStdGetStreamObjectInfo: 0xB9944334
+          cellAsfParser2AStdInitParser: 0xC226F142
+          cellAsfParser2AStdReadData: 0x54D414BE
+          cellAsfParser2AStdReadUChar8: 0x94F52C91
+          cellAsfParser2AStdSeekPacketNumber: 0x452B09FB
+          cellAsfParser2AStdSeekPacketOffset: 0x3E1F2192
+          cellAsfParser2AStdSeekTime: 0xE12F7196
+          cellAsfParser2AStdSkipFrameData: 0x9FDD0A84
+          cellAsfParser2AStd_0x00C3C7E0: 0x00C3C7E0
+          cellAsfParser2AStd_0x03BB1E7E: 0x03BB1E7E
+          cellAsfParser2AStd_0x2E6F232B: 0x2E6F232B
+          cellAsfParser2AStd_0x4D6BF37A: 0x4D6BF37A
+          cellAsfParser2AStd_0xA17B4C9D: 0xA17B4C9D
+          cellAsfParser2AStd_0xBEDDECC9: 0xBEDDECC9
+          cellAsfParser2AStd_0xE53B246A: 0xE53B246A

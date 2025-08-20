@@ -1,0 +1,32 @@
+modules:
+  cellUsbPspcm_Library:
+    libraries:
+      cellUsbPspcm:
+        functions:
+          cellUsbPspcmBind: 0xABE090E3
+          cellUsbPspcmBindAsync: 0x17F42197
+          cellUsbPspcmCalcPoolSize: 0xF20DF7FC
+          cellUsbPspcmCancelBind: 0xA4A5DDB4
+          cellUsbPspcmCancelWaitData: 0xE76E79AB
+          cellUsbPspcmClose: 0xFA07D320
+          cellUsbPspcmEnd: 0x0F7B3B6D
+          cellUsbPspcmGetAddr: 0x97670A90
+          cellUsbPspcmInit: 0x657FCD36
+          cellUsbPspcmPollBindAsync: 0x01A4CDE0
+          cellUsbPspcmPollData: 0x816799DD
+          cellUsbPspcmPollRecvAsync: 0x7B249315
+          cellUsbPspcmPollResetAsync: 0x3F22403E
+          cellUsbPspcmPollSendAsync: 0x7F0A3EAF
+          cellUsbPspcmRecv: 0xF9883D3B
+          cellUsbPspcmRecvAsync: 0x02955295
+          cellUsbPspcmRegister: 0xE3FBF64D
+          cellUsbPspcmReset: 0xE68A65AC
+          cellUsbPspcmResetAsync: 0x4EF182DD
+          cellUsbPspcmSend: 0x7277D7C3
+          cellUsbPspcmSendAsync: 0x4AF23EFA
+          cellUsbPspcmUnregister: 0x7FF72B42
+          cellUsbPspcmWaitBindAsync: 0x4ABE830E
+          cellUsbPspcmWaitData: 0xDB864D11
+          cellUsbPspcmWaitRecvAsync: 0x461DC8CC
+          cellUsbPspcmWaitResetAsync: 0xE840F449
+          cellUsbPspcmWaitSendAsync: 0x3CADDF6C

@@ -1,0 +1,14 @@
+modules:
+  libmvcdec_Library:
+    libraries:
+      libmvcdec:
+        functions:
+          mvcDecAccessUnit: 0xAC46F509
+          mvcDecClose: 0x739B99DF
+          mvcDecFlush: 0xCB6494D5
+          mvcDecGetVersion: 0x9A0E3C6E
+          mvcDecOpen: 0xC5C3B70A
+          mvcDecQueryCharacteristics: 0xEC29CAB1
+          mvcDecQueryMemory: 0x6BE252E1
+          mvcDecReset: 0x53F2DED8
+          mvcDecRlsFrame: 0xEAB40886

@@ -1,0 +1,13 @@
+modules:
+  cellAvchatJpgDec_Library:
+    libraries:
+      cellAvchatJpgDec:
+        functions:
+          cellAvchatJpgDecClose: 0xFD51609E
+          cellAvchatJpgDecDecodeData: 0x720B2726
+          cellAvchatJpgDecDecodeData2: 0xEF9E83D2
+          cellAvchatJpgDecGetDecodeStatus: 0x4644B39A
+          cellAvchatJpgDecOpen: 0x80A28D48
+          cellAvchatJpgDecOpenExt: 0x943A6675
+          cellAvchatJpgDecQueryAttr: 0x0E520B15
+          cellAvchatJpgDecSetEventInfo: 0x4D99E6DF

@@ -1,0 +1,8 @@
+modules:
+  cellSysutilAp_Library:
+    libraries:
+      cellSysutilAp:
+        functions:
+          cellSysutilApGetRequiredMemSize: 0x9E67E0DD
+          cellSysutilApOff: 0x90C2BB19
+          cellSysutilApOn: 0x3343824C

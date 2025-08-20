@@ -1,0 +1,23 @@
+modules:
+  BEISOBMFExport:
+    libraries:
+      BEISOBMFExportForUser:
+        functions:
+          BEISOBMFExportForUser_0x0A254D91: 0x0A254D91
+          BEISOBMFExportForUser_0x14387B80: 0x14387B80
+          BEISOBMFExportForUser_0x19056EF2: 0x19056EF2
+          BEISOBMFExportForUser_0x206078AE: 0x206078AE
+          BEISOBMFExportForUser_0x380755EA: 0x380755EA
+          BEISOBMFExportForUser_0x43C3AE21: 0x43C3AE21
+          BEISOBMFExportForUser_0x6C6E4FC1: 0x6C6E4FC1
+          BEISOBMFExportForUser_0x7121473A: 0x7121473A
+          BEISOBMFExportForUser_0x77689C49: 0x77689C49
+          BEISOBMFExportForUser_0x92840AB8: 0x92840AB8
+          BEISOBMFExportForUser_0xA543048D: 0xA543048D
+          BEISOBMFExportForUser_0xB583BC37: 0xB583BC37
+          BEISOBMFExportForUser_0xC2A152BE: 0xC2A152BE
+          BEISOBMFExportForUser_0xCB2FF632: 0xCB2FF632
+          BEISOBMFExportForUser_0xE3F16DED: 0xE3F16DED
+          BEISOBMFExportForUser_0xEEE738E3: 0xEEE738E3
+          BEISOBMFExportForUser_0xF7724BB0: 0xF7724BB0
+          BEISOBMFExportForUser_0xFF240C76: 0xFF240C76

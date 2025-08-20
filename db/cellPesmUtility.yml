@@ -1,0 +1,22 @@
+modules:
+  cellPesmUtility_Library:
+    libraries:
+      cellPesmUtility:
+        functions:
+          cellPesmCloseDevice: 0xD425AC7D
+          cellPesmEncryptSample: 0x65F7338B
+          cellPesmEncryptSample2: 0xC54AAD2A
+          cellPesmEndMovieRec: 0xBA39AB02
+          cellPesmFinalize: 0x195716DB
+          cellPesmFinalize2: 0xCBC06973
+          cellPesmGetSinf: 0xA84FBC36
+          cellPesmGetVersion: 0x6312A6CC
+          cellPesmInitEntry: 0xAF41D6C8
+          cellPesmInitEntry2: 0xD45C3481
+          cellPesmInitialize: 0x05C4EE8D
+          cellPesmLoadAsync: 0x2821CBAA
+          cellPesmOpenDevice: 0x2C43AB76
+          cellPesmPrepareRec: 0xEC2E26B6
+          cellPesmStartMovieRec: 0xA985A03B
+          cellPesmUnloadAsync: 0x941F9C4E
+          cellPesmUtility_0x8AB3156B: 0x8AB3156B

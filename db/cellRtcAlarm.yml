@@ -1,0 +1,10 @@
+modules:
+  cellRtcAlarm_Library:
+    libraries:
+      cellRtcAlarm:
+        functions:
+          cellRtcAlarmGetStatus: 0xDB215455
+          cellRtcAlarmNotification: 0xAD8D9839
+          cellRtcAlarmRegister: 0x122D3DB1
+          cellRtcAlarmStopRunning: 0xB287748C
+          cellRtcAlarmUnregister: 0x559234A3

@@ -1,0 +1,16 @@
+modules:
+  ad_async:
+    libraries:
+      libad_async:
+        functions:
+          libad_async_0x42FDBDFB: 0x42FDBDFB
+          libad_async_0x889864B4: 0x889864B4
+          sceAdAsyncCacheSpaces: 0x48B4DA2F
+          sceAdAsyncCacheSpacesCancel: 0x853E785D
+          sceAdAsyncCloseContext: 0xCF1CBCF5
+          sceAdAsyncConnectContext: 0x7A7A1ED3
+          sceAdAsyncFlushReports: 0x9FD61D8E
+          sceAdAsyncFlushReportsCancel: 0xA8096B3E
+          sceAdAsyncOpenContext: 0x44946174
+          sceAdAsyncSpaceClose: 0xC2DB09C5
+          sceAdAsyncSpaceOpen: 0x833F4516

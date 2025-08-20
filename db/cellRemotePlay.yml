@@ -1,0 +1,13 @@
+modules:
+  cellRemotePlay_Library:
+    libraries:
+      cellRemotePlay:
+        functions:
+          cellRemotePlayBreak: 0xFB793F27
+          cellRemotePlayEncryptAllData: 0xD29FE5E3
+          cellRemotePlayGetComparativeVolume: 0xE12C8C19
+          cellRemotePlayGetPeerInfo: 0xA445CD55
+          cellRemotePlayGetSharedMemory: 0xC267987B
+          cellRemotePlayGetStatus: 0x533F41DF
+          cellRemotePlaySetComparativeVolume: 0x743918BD
+          cellRemotePlayStopPeerVideoOut: 0xD6F3FC82

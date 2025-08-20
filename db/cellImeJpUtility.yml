@@ -1,0 +1,47 @@
+modules:
+  cellImeJpUtility_Library:
+    libraries:
+      cellImeJpUtility:
+        functions:
+          cellImeJpAllConfirm: 0x7189430B
+          cellImeJpAllConvertCancel: 0xCBBC20B7
+          cellImeJpAllDeleteConvertString: 0x6319EDA3
+          cellImeJpAllowExtensionCharacters: 0x8FF02267
+          cellImeJpBackspaceWord: 0xAA1D1F57
+          cellImeJpClose: 0x46D1234A
+          cellImeJpConfirmPrediction: 0xEEDE898C
+          cellImeJpConvertBackward: 0xC2BB48BC
+          cellImeJpConvertCancel: 0xEAE879DC
+          cellImeJpConvertForward: 0x1E29103B
+          cellImeJpCurrentPartConfirm: 0x7A18C2B9
+          cellImeJpDeleteWord: 0x72257652
+          cellImeJpEnterChar: 0x6CCBE3D6
+          cellImeJpEnterCharExt: 0x5B6ADA55
+          cellImeJpEnterString: 0x441A1C2B
+          cellImeJpEnterStringExt: 0x6298B55A
+          cellImeJpExtendConvertArea: 0x37961CC1
+          cellImeJpGetCandidateList: 0xE4CC15BA
+          cellImeJpGetCandidateListSize: 0xC4796A45
+          cellImeJpGetCandidateSelect: 0x177BD218
+          cellImeJpGetConfirmString: 0xD3FC3606
+          cellImeJpGetConfirmYomiString: 0x89F8A567
+          cellImeJpGetConvertString: 0xF91ABDA3
+          cellImeJpGetConvertYomiString: 0xEA2D4881
+          cellImeJpGetFocusLength: 0x5F5B3227
+          cellImeJpGetFocusTop: 0x0E363AE7
+          cellImeJpGetPredictList: 0x1986F2CD
+          cellImeJpGetStatus: 0x66C6CC78
+          cellImeJpModeCaretLeft: 0xE76C9700
+          cellImeJpModeCaretRight: 0xAC6693D8
+          cellImeJpMoveFocusClause: 0x1E411261
+          cellImeJpOpen: 0x44608862
+          cellImeJpOpen2: 0x47B43DD4
+          cellImeJpOpen3: 0x1B119958
+          cellImeJpOpenExt: 0xCEB2EB36
+          cellImeJpPostConvert: 0x8BB41F47
+          cellImeJpReset: 0x36D38701
+          cellImeJpSetFixInputMode: 0xC1786C81
+          cellImeJpSetInputCharType: 0xF5992EC8
+          cellImeJpSetKanaInputMode: 0x24E9D8FC
+          cellImeJpShortenConvertArea: 0xAA2A3287
+          cellImeJpTemporalConfirm: 0xBD679CC1

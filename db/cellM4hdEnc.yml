@@ -1,0 +1,14 @@
+modules:
+  cellM4hdEnc_Library:
+    libraries:
+      cellM4hdEnc:
+        functions:
+          cellM4hdEncClose: 0x91A0D079
+          cellM4hdEncEncodeFrame: 0x2A6F33B5
+          cellM4hdEncGetAuInfo: 0xE394A3BD
+          cellM4hdEncGetResult: 0x9CA05AEC
+          cellM4hdEncGetStream2: 0xC1566DAE
+          cellM4hdEncOpenEx: 0x7555DAFB
+          cellM4hdEncOpenEx2: 0xB7F4D418
+          cellM4hdEncQueryResource: 0x3D32ADD6
+          cellM4hdEnc_0x0C06029F: 0x0C06029F

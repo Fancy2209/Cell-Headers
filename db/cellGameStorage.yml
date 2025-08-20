@@ -1,0 +1,14 @@
+modules:
+  cellGame_Library:
+    libraries:
+      cellGameStorage:
+        functions:
+          cellGameStorageWritePerfExt: 0x4240CF21
+          cellGameStorage_0x23EC78CE: 0x23EC78CE
+          cellGameStorage_0x50771F25: 0x50771F25
+          cellGameStorage_0x5ACD77EA: 0x5ACD77EA
+          cellGameStorage_0x8DBD9594: 0x8DBD9594
+          cellGameStorage_0xA9201831: 0xA9201831
+          cellGameStorage_0xD7724C0A: 0xD7724C0A
+          cellGameStorage_0xDD713774: 0xDD713774
+          cellGameStorage_0xE90726AF: 0xE90726AF

@@ -1,0 +1,27 @@
+modules:
+  libvdec_Library:
+    libraries:
+      libvdec:
+        functions:
+          cellVdecClose: 0x16698E83
+          cellVdecDecodeAu: 0x2BF4DDD2
+          cellVdecDecodeAuEx2: 0x1533C6A9
+          cellVdecEndSeq: 0x824433F0
+          cellVdecGetInputStatus: 0x3ACF7FF8
+          cellVdecGetPicItem: 0x17C702B9
+          cellVdecGetPicItemEx: 0x8F6E2CA0
+          cellVdecGetPicItemExt: 0x2CBD9806
+          cellVdecGetPicture: 0x807C861A
+          cellVdecGetPictureExt: 0xA21AA896
+          cellVdecOpen: 0xB6BBCD5D
+          cellVdecOpenEx: 0x0053E2D8
+          cellVdecOpenExt: 0xEF4D8AD7
+          cellVdecQueryAttr: 0xFF6F6EBE
+          cellVdecQueryAttrEx: 0xC982A84A
+          cellVdecSetFrameRate: 0xE13EF6FC
+          cellVdecSetFrameRateExt: 0xCFFC42A5
+          cellVdecSetPts: 0x3CE2E4F8
+          cellVdecStartSeq: 0xC757C2AA
+          cellVdecStartSeqExt: 0xEBB8E70A
+          libvdec_0x20DA0CFA: 0x20DA0CFA
+          libvdec_0x652B7BC0: 0x652B7BC0

@@ -1,0 +1,10 @@
+modules:
+  cellUserInfo_Library:
+    libraries:
+      cellUserInfo:
+        functions:
+          cellUserInfoEnableOverlay: 0xB3516536
+          cellUserInfoGetList: 0xC55E338B
+          cellUserInfoGetStat: 0x2B761140
+          cellUserInfoSelectUser_ListType: 0x3097CC1C
+          cellUserInfoSelectUser_SetList: 0x55123A25

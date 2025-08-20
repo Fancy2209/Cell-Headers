@@ -1,0 +1,12 @@
+modules:
+  cellRec_Library:
+    libraries:
+      cellRec:
+        functions:
+          cellRecClose: 0x4AC76585
+          cellRecGetInfo: 0x5A8A8B0F
+          cellRecOpen: 0x39651E01
+          cellRecQueryMemSize: 0xDBF22BD1
+          cellRecSetInfo: 0xF0958F73
+          cellRecStart: 0x964CD1B8
+          cellRecStop: 0x5B45439D

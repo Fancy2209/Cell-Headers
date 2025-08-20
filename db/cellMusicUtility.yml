@@ -1,0 +1,27 @@
+modules:
+  cellMusicUtility_Library:
+    libraries:
+      cellMusicUtility:
+        functions:
+          cellMusicFinalize: 0x6F2104F3
+          cellMusicFinalize2: 0x7BE4DC31
+          cellMusicGetContentsId: 0x4C188CAA
+          cellMusicGetContentsId2: 0x6674DE2D
+          cellMusicGetPlaybackStatus: 0x95F7D9D9
+          cellMusicGetPlaybackStatus2: 0x648B7611
+          cellMusicGetSelectionContext: 0x0B461648
+          cellMusicGetSelectionContext2: 0x8793EF97
+          cellMusicGetVolume: 0x8AA188E3
+          cellMusicGetVolume2: 0xF9073A24
+          cellMusicInitialize: 0x72EC14B5
+          cellMusicInitialize2: 0xBE50B11E
+          cellMusicInitialize2SystemWorkload: 0x61865281
+          cellMusicInitializeSystemWorkload: 0x72876546
+          cellMusicSelectContents: 0xB2336BA7
+          cellMusicSelectContents2: 0xAD04CDDD
+          cellMusicSetPlaybackCommand: 0xA0661626
+          cellMusicSetPlaybackCommand2: 0x98947A6E
+          cellMusicSetSelectionContext: 0x5BFF31BF
+          cellMusicSetSelectionContext2: 0x2BDC5D6B
+          cellMusicSetVolume: 0xE74CE7BD
+          cellMusicSetVolume2: 0x4014C246

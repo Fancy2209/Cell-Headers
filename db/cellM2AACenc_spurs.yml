@@ -1,0 +1,36 @@
+modules:
+  cellM2AACenc_Library_spurs:
+    libraries:
+      cellM2AACenc_spurs:
+        functions:
+          cellM2AACenc_spurs_0x10A0D883: 0x10A0D883
+          cellM2AACenc_spurs_0x22A568AF: 0x22A568AF
+          cellM2AACenc_spurs_0x23E72363: 0x23E72363
+          cellM2AACenc_spurs_0x29E9B27B: 0x29E9B27B
+          cellM2AACenc_spurs_0x3FA9D239: 0x3FA9D239
+          cellM2AACenc_spurs_0x4B308D69: 0x4B308D69
+          cellM2AACenc_spurs_0x4EE91779: 0x4EE91779
+          cellM2AACenc_spurs_0x5FC1AE9D: 0x5FC1AE9D
+          cellM2AACenc_spurs_0x60F1F761: 0x60F1F761
+          cellM2AACenc_spurs_0x7D0CA860: 0x7D0CA860
+          cellM2AACenc_spurs_0x867607D4: 0x867607D4
+          cellM2AACenc_spurs_0x94026354: 0x94026354
+          cellM2AACenc_spurs_0x97511890: 0x97511890
+          cellM2AACenc_spurs_0x9FA1B428: 0x9FA1B428
+          cellM2AACenc_spurs_0xA6AF1A6C: 0xA6AF1A6C
+          cellM2AACenc_spurs_0xA8E09240: 0xA8E09240
+          cellM2AACenc_spurs_0xBDE15C4C: 0xBDE15C4C
+          cellM2AACenc_spurs_0xC487F796: 0xC487F796
+          cellM2AACenc_spurs_0xE6654A42: 0xE6654A42
+          naacEncClear: 0x893A7450
+          naacEncEncode: 0x7E9FA832
+          naacEncFlush: 0x8549EE34
+          naacEncGetAdifHeader: 0xD9E960B2
+          naacEncGetBufferRequest: 0x48E5EAA9
+          naacEncGetDelay: 0xD46148F5
+          naacEncGetLibraryVersion: 0xDC57C0AC
+          naacEncGetPce: 0x7E8B6001
+          naacEncInit: 0x352D9BFD
+          naacEncQueryMemorySize: 0x82AAB310
+          naacEncReleaseInstance: 0xB51A9CCB
+          naacEncSetPCE: 0x3DCC2354

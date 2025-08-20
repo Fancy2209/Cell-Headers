@@ -1,0 +1,47 @@
+modules:
+  cellSre_Library:
+    libraries:
+      cellSync:
+        functions:
+          _cellSyncLFQueueAttachLv2EventQueue: 0x54FC2032
+          _cellSyncLFQueueCompletePopPointer: 0xFE74E8E7
+          _cellSyncLFQueueCompletePopPointer2: 0x7A51DEEE
+          _cellSyncLFQueueCompletePushPointer: 0x4E88C68D
+          _cellSyncLFQueueCompletePushPointer2: 0x35BBDAD2
+          _cellSyncLFQueueDetachLv2EventQueue: 0x811D148E
+          _cellSyncLFQueueGetPopPointer: 0x74C37666
+          _cellSyncLFQueueGetPopPointer2: 0x46356FE0
+          _cellSyncLFQueueGetPushPointer: 0xE9BF2110
+          _cellSyncLFQueueGetPushPointer2: 0x6BB4EF9D
+          _cellSyncLFQueueGetSignalAddress: 0xAFF7627A
+          _cellSyncLFQueuePopBody: 0xE1BC7ADD
+          _cellSyncLFQueuePushBody: 0xBA5961CA
+          cellSyncBarrierInitialize: 0x07254FDA
+          cellSyncBarrierNotify: 0xF06A6415
+          cellSyncBarrierTryNotify: 0x268EDD6D
+          cellSyncBarrierTryWait: 0x6C272124
+          cellSyncBarrierWait: 0x35F21355
+          cellSyncLFQueueClear: 0x2AF0C515
+          cellSyncLFQueueDepth: 0xE18C273C
+          cellSyncLFQueueGetDirection: 0xD59AA307
+          cellSyncLFQueueGetEntrySize: 0x0C7CB9F7
+          cellSyncLFQueueInitialize: 0xAA355278
+          cellSyncLFQueueSize: 0x167EA63E
+          cellSyncMutexInitialize: 0xA9072DEE
+          cellSyncMutexLock: 0x1BB675C2
+          cellSyncMutexTryLock: 0xD06918C4
+          cellSyncMutexUnlock: 0x91F2B7B0
+          cellSyncQueueClear: 0xA5362E73
+          cellSyncQueueInitialize: 0x3929948D
+          cellSyncQueuePeek: 0x48154C9B
+          cellSyncQueuePop: 0x4DA6D7E0
+          cellSyncQueuePush: 0x5AE841E5
+          cellSyncQueueSize: 0x4DA349B2
+          cellSyncQueueTryPeek: 0x68AF923C
+          cellSyncQueueTryPop: 0xA58DF87F
+          cellSyncQueueTryPush: 0x705985CD
+          cellSyncRwmInitialize: 0xFC48B03F
+          cellSyncRwmRead: 0xCECE771F
+          cellSyncRwmTryRead: 0xA6669751
+          cellSyncRwmTryWrite: 0xBA5BEE48
+          cellSyncRwmWrite: 0xED773F5F

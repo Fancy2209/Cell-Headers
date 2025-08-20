@@ -1,0 +1,16 @@
+modules:
+  sceNp_Library:
+    libraries:
+      sceNpMatchingInt:
+        functions:
+          sceNpMatchingCancelRequest: 0x033D5BA0
+          sceNpMatchingCancelRequestGUI: 0xC4100412
+          sceNpMatchingCreateRoomWithoutGUI: 0xEADCB5CA
+          sceNpMatchingGetRoomInfoNoLimit: 0xB020684E
+          sceNpMatchingGetRoomListGUI: 0xB00F408A
+          sceNpMatchingGetRoomListWithoutGUI: 0x92D5C77B
+          sceNpMatchingGetRoomMemberList: 0x170829D3
+          sceNpMatchingJoinRoomGUI: 0x474B7B13
+          sceNpMatchingJoinRoomWithoutGUI: 0x31B2B978
+          sceNpMatchingSendRoomMessage: 0xE61F7EE9
+          sceNpMatchingSetRoomInfoNoLimit: 0x4A18A89E

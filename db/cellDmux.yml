@@ -1,0 +1,26 @@
+modules:
+  cellDmux_Library:
+    libraries:
+      cellDmux:
+        functions:
+          cellDmuxClose: 0x8C692521
+          cellDmuxDisableEs: 0x05371C8D
+          cellDmuxEnableEs: 0x7B56DC3F
+          cellDmuxFlushEs: 0xEBB3B2BD
+          cellDmuxGetAu: 0x42C716B5
+          cellDmuxGetAuEx: 0x2C9A5857
+          cellDmuxOpen: 0x68492DE9
+          cellDmuxOpen2: 0x11BC3A6C
+          cellDmuxOpenEx: 0xF6C23560
+          cellDmuxOpenExt: 0xE075FABC
+          cellDmuxPeekAu: 0x2750C5E0
+          cellDmuxPeekAuEx: 0x002E8DA2
+          cellDmuxQueryAttr: 0xA2D4189B
+          cellDmuxQueryAttr2: 0x3F76E3CD
+          cellDmuxQueryEsAttr: 0x02170D1A
+          cellDmuxQueryEsAttr2: 0x52911BCF
+          cellDmuxReleaseAu: 0x24EA6474
+          cellDmuxResetEs: 0x21D424F0
+          cellDmuxResetStream: 0x5D345DE9
+          cellDmuxResetStreamAndWaitDone: 0xCCFF1284
+          cellDmuxSetStream: 0x04E7499F

@@ -1,0 +1,6 @@
+modules:
+  liblv2:
+    libraries:
+      sysBdMediaId:
+        functions:
+          sys_get_bd_media_id: 0xEF666B52

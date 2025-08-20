@@ -1,0 +1,9 @@
+modules:
+  cellPhotoDecode_Library:
+    libraries:
+      cellPhotoDecodeUtil:
+        functions:
+          cellPhotoDecodeFinalize: 0xAD7D8F38
+          cellPhotoDecodeFromFile: 0x28B22E44
+          cellPhotoDecodeInitialize: 0x596F0A56
+          cellPhotoDecodeInitialize2: 0x0F424ECB

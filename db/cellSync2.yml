@@ -1,0 +1,37 @@
+modules:
+  cellSync2_Library:
+    libraries:
+      cellSync2:
+        functions:
+          _cellSync2CondAttributeInitialize: 0xDF3C532A
+          _cellSync2MutexAttributeInitialize: 0x55836E73
+          _cellSync2QueueAttributeInitialize: 0x5E00D433
+          _cellSync2SemaphoreAttributeInitialize: 0x2D77FE17
+          cellSync2CondEstimateBufferSize: 0x5B1E4D7A
+          cellSync2CondFinalize: 0x63062249
+          cellSync2CondInitialize: 0x58BE9A0F
+          cellSync2CondSignal: 0x871AF804
+          cellSync2CondSignalAll: 0x8AAE07C2
+          cellSync2CondWait: 0xBC96D751
+          cellSync2MutexEstimateBufferSize: 0xD51BFAE7
+          cellSync2MutexFinalize: 0x27F2D61C
+          cellSync2MutexInitialize: 0xEB81A467
+          cellSync2MutexLock: 0xA400D82E
+          cellSync2MutexTryLock: 0xA69C749C
+          cellSync2MutexUnlock: 0x0080FE88
+          cellSync2QueueEstimateBufferSize: 0xC08CC0F9
+          cellSync2QueueFinalize: 0x6AF85CDF
+          cellSync2QueueGetDepth: 0xF0E1471C
+          cellSync2QueueGetSize: 0x12F0A27D
+          cellSync2QueueInitialize: 0xF125E044
+          cellSync2QueuePop: 0xD83AB0C9
+          cellSync2QueuePush: 0x7D967D91
+          cellSync2QueueTryPop: 0x0C9A0EA9
+          cellSync2QueueTryPush: 0x7FD479FE
+          cellSync2SemaphoreAcquire: 0xD1B0D146
+          cellSync2SemaphoreEstimateBufferSize: 0x74C2780F
+          cellSync2SemaphoreFinalize: 0x164843A7
+          cellSync2SemaphoreGetCount: 0x4E2EE031
+          cellSync2SemaphoreInitialize: 0xC5DEE254
+          cellSync2SemaphoreRelease: 0x0C2983AC
+          cellSync2SemaphoreTryAcquire: 0x5E4B0F87

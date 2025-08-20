@@ -1,0 +1,39 @@
+modules:
+  cellPngEnc_Library:
+    libraries:
+      cellPngEnc:
+        functions:
+          cellPngEncClose: 0x117CD726
+          cellPngEncCoreClose: 0x44616414
+          cellPngEncCoreCreate: 0x3C413AC6
+          cellPngEncCoreDestroy: 0xF8418255
+          cellPngEncCoreEncodeData: 0x99A14141
+          cellPngEncCoreExtCreate: 0x0695A4B8
+          cellPngEncCoreOpen: 0x8A96E574
+          cellPngEncCoreOpen2: 0xE806D0F2
+          cellPngEncCoreWriteHeader: 0x27E7BD51
+          cellPngEncEncodePicture: 0x5B546CA4
+          cellPngEncGetStreamInfo: 0x585269BC
+          cellPngEncOpen: 0x19256DC5
+          cellPngEncOpenEx: 0xC82558CE
+          cellPngEncQueryAttr: 0x496CFCD0
+          cellPngEncReset: 0x6AC91DE3
+          cellPngEncWaitForInput: 0x662BD637
+          cellPngEncWaitForOutput: 0x90EF2963
+          cellPngEnc_0x151A07D7: 0x151A07D7
+          cellPngEnc_0x17D64665: 0x17D64665
+          cellPngEnc_0x27C15E2E: 0x27C15E2E
+          cellPngEnc_0x40F325FE: 0x40F325FE
+          cellPngEnc_0x5440BFB6: 0x5440BFB6
+          cellPngEnc_0x61B8DCFA: 0x61B8DCFA
+          cellPngEnc_0x73C3C708: 0x73C3C708
+          cellPngEnc_0x8343A1BF: 0x8343A1BF
+          cellPngEnc_0x89BE8E6A: 0x89BE8E6A
+          cellPngEnc_0xABFF71C8: 0xABFF71C8
+          cellPngEnc_0xC301A3D6: 0xC301A3D6
+          cellPngEnc_0xD1B63B08: 0xD1B63B08
+          cellPngEnc_0xDA85FF96: 0xDA85FF96
+          cellPngEnc_0xDAF2709F: 0xDAF2709F
+          cellPngEnc_0xE4BBD3DC: 0xE4BBD3DC
+          cellPngEnc_0xE6154656: 0xE6154656
+          cellPngEnc_0xFB4A4BF0: 0xFB4A4BF0

@@ -1,0 +1,63 @@
+modules:
+  cellSailRec_Library:
+    libraries:
+      cellSailRec:
+        functions:
+          cellSailComposerFinalize: 0xE15F38D9
+          cellSailComposerGetEsAudioAu: 0x57390C45
+          cellSailComposerGetEsAudioParameter: 0xD0EBD14F
+          cellSailComposerGetEsUserAu: 0x62CCC64A
+          cellSailComposerGetEsUserParameter: 0x2F7F391F
+          cellSailComposerGetEsVideoAu: 0xC3B8F109
+          cellSailComposerGetEsVideoParameter: 0xB1991509
+          cellSailComposerGetStreamParameter: 0x9A71E740
+          cellSailComposerInitialize: 0x434C5123
+          cellSailComposerNotifyCallCompleted: 0x3C09716B
+          cellSailComposerNotifySessionError: 0xF1F0E5DA
+          cellSailComposerReleaseEsAudioAu: 0x2707FD60
+          cellSailComposerReleaseEsUserAu: 0x25B980A0
+          cellSailComposerReleaseEsVideoAu: 0x6F867071
+          cellSailComposerTryGetEsAudioAu: 0xB9562C1A
+          cellSailComposerTryGetEsUserAu: 0x4C1D59E8
+          cellSailComposerTryGetEsVideoAu: 0xDFD899B7
+          cellSailFeederAudioFinalize: 0x899D1587
+          cellSailFeederAudioInitialize: 0xBD591197
+          cellSailFeederAudioNotifyCallCompleted: 0xC2E2F30D
+          cellSailFeederAudioNotifyFrameOut: 0x3C775CEA
+          cellSailFeederAudioNotifySessionEnd: 0x999C0DC5
+          cellSailFeederAudioNotifySessionError: 0xAF310AE6
+          cellSailFeederVideoFinalize: 0x81BFEAE8
+          cellSailFeederVideoInitialize: 0x57415DD3
+          cellSailFeederVideoNotifyCallCompleted: 0xD84DAEB9
+          cellSailFeederVideoNotifyFrameOut: 0xE5E0572A
+          cellSailFeederVideoNotifySessionEnd: 0xBFF6E8D3
+          cellSailFeederVideoNotifySessionError: 0x86CAE679
+          cellSailProfileSetEsAudioParameter: 0xE14CAE97
+          cellSailProfileSetEsVideoParameter: 0x1422A425
+          cellSailProfileSetStreamParameter: 0xE8D86C43
+          cellSailRecorderBoot: 0xC4617DDC
+          cellSailRecorderCancel: 0xD37FB694
+          cellSailRecorderCloseStream: 0xE3F56F62
+          cellSailRecorderCreateProfile: 0x50AFFDC1
+          cellSailRecorderCreateVideoConverter: 0x49476A3D
+          cellSailRecorderDestroyProfile: 0x376C3926
+          cellSailRecorderDestroyVideoConverter: 0x455C4709
+          cellSailRecorderDumpImage: 0x37AAD85F
+          cellSailRecorderFinalize: 0xF57D74E3
+          cellSailRecorderGetParameter: 0xFF20157B
+          cellSailRecorderInitialize: 0x7A52BF69
+          cellSailRecorderOpenStream: 0x10C81457
+          cellSailRecorderRegisterComposer: 0x80B711CE
+          cellSailRecorderReplaceEventHandler: 0xE12A2FBE
+          cellSailRecorderSetFeederAudio: 0x3DEAE857
+          cellSailRecorderSetFeederVideo: 0x4FEC43A9
+          cellSailRecorderSetParameter: 0x0A3EA2A9
+          cellSailRecorderStart: 0x4830FAF8
+          cellSailRecorderStop: 0x18ECC741
+          cellSailRecorderSubscribeEvent: 0x551A95FC
+          cellSailRecorderUnregisterComposer: 0xEA7E20FC
+          cellSailRecorderUnsubscribeEvent: 0x54CFB78B
+          cellSailVideoConverterCanGetResult: 0xE16DE678
+          cellSailVideoConverterCanProcess: 0xB3D30B0D
+          cellSailVideoConverterGetResult: 0xE15679FE
+          cellSailVideoConverterProcess: 0x855DA8C6

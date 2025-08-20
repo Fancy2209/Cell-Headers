@@ -1,0 +1,25 @@
+modules:
+  cellHttp_Library:
+    libraries:
+      cellHttpUtil:
+        functions:
+          cellHttpUtilAppendHeaderValue: 0x37BB53A2
+          cellHttpUtilBase64Decoder: 0x8E52EE08
+          cellHttpUtilBase64Encoder: 0x83FAA354
+          cellHttpUtilBuildHeader: 0x04ACCEBF
+          cellHttpUtilBuildRequestLine: 0x1C6E4DBB
+          cellHttpUtilBuildUri: 0x6F0F7667
+          cellHttpUtilCopyHeader: 0x97F9FBE5
+          cellHttpUtilCopyStatusLine: 0x50EA75BC
+          cellHttpUtilCopyUri: 0xF05DF789
+          cellHttpUtilEscapeUri: 0x9003B1F2
+          cellHttpUtilFormUrlDecode: 0x8E6C5BB9
+          cellHttpUtilFormUrlEncode: 0x44D756D6
+          cellHttpUtilMergeUriPath: 0x8EA23DEB
+          cellHttpUtilParseHeader: 0xE1FB0EBD
+          cellHttpUtilParseProxy: 0xA3457869
+          cellHttpUtilParseStatusLine: 0x2BCBCED4
+          cellHttpUtilParseUri: 0x32FAAF58
+          cellHttpUtilParseUriPath: 0x8BB608E4
+          cellHttpUtilSweepPath: 0xAABEB869
+          cellHttpUtilUnescapeUri: 0x2763FD66

@@ -1,0 +1,6 @@
+modules:
+  cellMPL1dec_Library:
+    libraries:
+      cellMPL1dec:
+        functions:
+          cellMPL1dec_0xA4A9A309: 0xA4A9A309

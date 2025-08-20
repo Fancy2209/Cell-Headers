@@ -1,0 +1,30 @@
+modules:
+  cellPamf_Library:
+    libraries:
+      cellPamf:
+        functions:
+          cellPamfEpIteratorGetEp: 0x1ABEB9D6
+          cellPamfEpIteratorMove: 0x50B83205
+          cellPamfGetHeaderSize: 0xCA8181C1
+          cellPamfGetHeaderSize2: 0x90FC9A59
+          cellPamfGetStreamOffsetAndSize: 0x44F5C9E3
+          cellPamfReaderGetEpIteratorWithIndex: 0xE8586EC6
+          cellPamfReaderGetEpIteratorWithTimeStamp: 0x439FBA17
+          cellPamfReaderGetEsFilterId: 0x71DF326A
+          cellPamfReaderGetMuxRateBound: 0xDB70296C
+          cellPamfReaderGetNumberOfEp: 0xD9EA3457
+          cellPamfReaderGetNumberOfSpecificStreams: 0xD0230671
+          cellPamfReaderGetNumberOfStreams: 0x37F723F7
+          cellPamfReaderGetPresentationEndTime: 0xF61609D6
+          cellPamfReaderGetPresentationStartTime: 0x4DE501B1
+          cellPamfReaderGetStreamIndex: 0x041CC708
+          cellPamfReaderGetStreamInfo: 0x67FD273B
+          cellPamfReaderGetStreamTypeAndChannel: 0x9AB20793
+          cellPamfReaderInitialize: 0xB8436EE5
+          cellPamfReaderSetStreamWithIndex: 0x461534B4
+          cellPamfReaderSetStreamWithTypeAndChannel: 0x03FD2CAA
+          cellPamfReaderSetStreamWithTypeAndIndex: 0x28B4E2C1
+          cellPamfStreamTypeToEsFilterId: 0x01067E22
+          cellPamfVerify: 0xD1A40EF4
+          cellPamf_0x7AF9E578: 0x7AF9E578
+          cellPamf_0xFBE551D3: 0xFBE551D3

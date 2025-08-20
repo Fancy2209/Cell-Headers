@@ -1,0 +1,31 @@
+modules:
+  BEMP2SYSExport:
+    libraries:
+      BEMP2SYSExportForUser:
+        functions:
+          BEMP2SYSExportForUser_0x0967B86F: 0x0967B86F
+          BEMP2SYSExportForUser_0x0ADF650D: 0x0ADF650D
+          BEMP2SYSExportForUser_0x11B57EAD: 0x11B57EAD
+          BEMP2SYSExportForUser_0x1B704907: 0x1B704907
+          BEMP2SYSExportForUser_0x2062933E: 0x2062933E
+          BEMP2SYSExportForUser_0x24650DF1: 0x24650DF1
+          BEMP2SYSExportForUser_0x2BBA80F8: 0x2BBA80F8
+          BEMP2SYSExportForUser_0x3CBBB54A: 0x3CBBB54A
+          BEMP2SYSExportForUser_0x3F276144: 0x3F276144
+          BEMP2SYSExportForUser_0x465578A2: 0x465578A2
+          BEMP2SYSExportForUser_0x4B2E0D5E: 0x4B2E0D5E
+          BEMP2SYSExportForUser_0x4EC155C2: 0x4EC155C2
+          BEMP2SYSExportForUser_0x5431B011: 0x5431B011
+          BEMP2SYSExportForUser_0x5B89829C: 0x5B89829C
+          BEMP2SYSExportForUser_0x5F9A8A8C: 0x5F9A8A8C
+          BEMP2SYSExportForUser_0x83EA66EF: 0x83EA66EF
+          BEMP2SYSExportForUser_0x8C74422A: 0x8C74422A
+          BEMP2SYSExportForUser_0x93A52981: 0x93A52981
+          BEMP2SYSExportForUser_0xA022B6B9: 0xA022B6B9
+          BEMP2SYSExportForUser_0xAFFFB134: 0xAFFFB134
+          BEMP2SYSExportForUser_0xC9DDC52D: 0xC9DDC52D
+          BEMP2SYSExportForUser_0xCD07A14B: 0xCD07A14B
+          BEMP2SYSExportForUser_0xDE7F3C31: 0xDE7F3C31
+          BEMP2SYSExportForUser_0xE2FCE5F2: 0xE2FCE5F2
+          BEMP2SYSExportForUser_0xE7EF0B4B: 0xE7EF0B4B
+          BEMP2SYSExportForUser_0xEC59163A: 0xEC59163A

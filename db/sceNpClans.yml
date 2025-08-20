@@ -1,0 +1,44 @@
+modules:
+  sceNpClans_Library:
+    libraries:
+      sceNpClans:
+        functions:
+          sceNpClansAbortRequest: 0xE82969E2
+          sceNpClansAddBlacklistEntry: 0x4D06AEF7
+          sceNpClansCancelInvitation: 0x726DFFD5
+          sceNpClansCancelMembershipRequest: 0x299CCC9B
+          sceNpClansChangeMemberRole: 0x9CAC2085
+          sceNpClansCreateClan: 0xA6A31A38
+          sceNpClansCreateRequest: 0x9A72232D
+          sceNpClansDestroyRequest: 0xD6551CD1
+          sceNpClansDisbandClan: 0x4826F6D5
+          sceNpClansGetAutoAcceptStatus: 0x38DADF1F
+          sceNpClansGetBlacklist: 0x56BC5A7C
+          sceNpClansGetClanInfo: 0x487DE998
+          sceNpClansGetClanList: 0xCA4181B4
+          sceNpClansGetClanListByNpId: 0x672399A8
+          sceNpClansGetMemberInfo: 0x20472DA0
+          sceNpClansGetMemberList: 0x856FF5C0
+          sceNpClansInit: 0x9B820047
+          sceNpClansJoinClan: 0xDBF300CA
+          sceNpClansKickMember: 0xAA7912B5
+          sceNpClansLeaveClan: 0x560F717B
+          sceNpClansPostAnnouncement: 0xADA45B84
+          sceNpClansPostChallenge: 0x83D65529
+          sceNpClansRemoveAnnouncement: 0xE2590F60
+          sceNpClansRemoveBlacklistEntry: 0x5BFF9DA1
+          sceNpClansRemoveChallenge: 0xCE6DC0F0
+          sceNpClansRemovePostedChallenge: 0xD3346DC4
+          sceNpClansRetrieveAnnouncements: 0x727AA7F8
+          sceNpClansRetrieveChallenges: 0x0DF25834
+          sceNpClansRetrievePostedChallenges: 0x8E785B97
+          sceNpClansSearchByName: 0xACE0CFBA
+          sceNpClansSearchByProfile: 0x1221A1BF
+          sceNpClansSendInvitation: 0xBC05EF31
+          sceNpClansSendInvitationResponse: 0x095E12C6
+          sceNpClansSendMembershipRequest: 0x59743B2B
+          sceNpClansSendMembershipResponse: 0x942DBDC4
+          sceNpClansTerm: 0x42332CB7
+          sceNpClansUpdateAutoAcceptStatus: 0x5DA94854
+          sceNpClansUpdateClanInfo: 0x09F9E1A9
+          sceNpClansUpdateMemberInfo: 0xF4A2D52B

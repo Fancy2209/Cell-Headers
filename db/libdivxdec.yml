@@ -1,0 +1,14 @@
+modules:
+  libdivxdec_Library:
+    libraries:
+      libdivxdec:
+        functions:
+          divxDecClose: 0xC6533FB2
+          divxDecDecodeAu: 0x964AB1E7
+          divxDecFlushPicture: 0x586EBC8A
+          divxDecGetNumOfPictures: 0x4AC10F4F
+          divxDecGetPicture: 0x4D866CF0
+          divxDecOpen: 0x7CFD1C1F
+          divxDecQueryAttr: 0xA9022CC5
+          divxDecReleasePicture: 0x2FA854AE
+          divxDecReset: 0xF6016B2D

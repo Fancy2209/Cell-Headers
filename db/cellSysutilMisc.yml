@@ -1,0 +1,6 @@
+modules:
+  cellSysutilMisc_Library:
+    libraries:
+      cellSysutilMisc:
+        functions:
+          cellSysutilGetLicenseArea: 0x571DC686

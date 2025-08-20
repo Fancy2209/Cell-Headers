@@ -1,0 +1,7 @@
+modules:
+  cellPhotoImport_Library:
+    libraries:
+      cellPhotoImportUtil:
+        functions:
+          cellPhotoImport: 0x0783BCE0
+          cellPhotoImport2: 0x1AB8DF55

@@ -1,0 +1,6 @@
+modules:
+  cellM4AacDec2ch_Library:
+    libraries:
+      cellM4AacDec2ch:
+        functions:
+          _SceAdecCorrectPtsValue_M4Aac2ch: 0x869E328D

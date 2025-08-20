@@ -1,0 +1,33 @@
+modules:
+  ad_core:
+    libraries:
+      libad_core:
+        functions:
+          libad_core_0x260DB83D: 0x260DB83D
+          libad_core_0x29ACBC2F: 0x29ACBC2F
+          libad_core_0x4FE614D8: 0x4FE614D8
+          libad_core_0x6AE5A677: 0x6AE5A677
+          libad_core_0x78C41FF4: 0x78C41FF4
+          libad_core_0x803CE9D2: 0x803CE9D2
+          libad_core_0x9104F4BE: 0x9104F4BE
+          libad_core_0x9374311F: 0x9374311F
+          libad_core_0xA642E894: 0xA642E894
+          libad_core_0xB00B4A26: 0xB00B4A26
+          libad_core_0xD0B097E3: 0xD0B097E3
+          libad_core_0xD9D902B4: 0xD9D902B4
+          libad_core_0xE2985E22: 0xE2985E22
+          sceAdCacheSpaces: 0xFE8B8022
+          sceAdCacheSpacesCancel: 0x345C225A
+          sceAdCacheSpacesPrepare: 0x1AC65942
+          sceAdCloseContext: 0xD1ADA7AE
+          sceAdConnectContext: 0xF930CC21
+          sceAdFlushReports: 0x1B6F5F4D
+          sceAdFlushReportsCancel: 0x9FCCF8BB
+          sceAdFlushReportsPrepare: 0x4D6EDF71
+          sceAdGetAssetInfo: 0xAC495EB8
+          sceAdGetConnectionInfo: 0xE73C90BA
+          sceAdGetConnectionMetadata: 0x9AE33D35
+          sceAdGetSpaceInfo: 0xDFA9D08D
+          sceAdGetSpaceMetadata: 0x03C1A02F
+          sceAdOpenContext: 0x0D884B17
+          sceAdWriteEventReport: 0xB35EA795

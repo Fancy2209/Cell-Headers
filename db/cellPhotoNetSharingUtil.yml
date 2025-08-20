@@ -1,0 +1,12 @@
+modules:
+  cellPhotoNetSharingUtil:
+    libraries:
+      cellPhotoNetSharingUtil:
+        functions:
+          cellPhotoNetSharingUtil_0x7173C1E4: 0x7173C1E4
+          cellPhotoNetSharingUtil_0xA8895AF5: 0xA8895AF5
+          cellPhotoNetSharingUtil_0xB27CB9C5: 0xB27CB9C5
+          cellPhotoNetSharingUtil_0xB3FBD3DF: 0xB3FBD3DF
+          cellPhotoNetSharingUtil_0xBA754398: 0xBA754398
+          cellPhotoNetSharingUtil_0xD2FDB4C5: 0xD2FDB4C5
+          cellPhotoNetSharingUtil_0xE3CE14E9: 0xE3CE14E9

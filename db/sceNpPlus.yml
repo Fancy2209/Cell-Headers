@@ -1,0 +1,6 @@
+modules:
+  sceNp_Library:
+    libraries:
+      sceNpPlus:
+        functions:
+          sceNpPlus_0x9CE5AC0B: 0x9CE5AC0B

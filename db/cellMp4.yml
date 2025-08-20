@@ -1,0 +1,9 @@
+modules:
+  cellMp4_Library:
+    libraries:
+      cellMp4:
+        functions:
+          cellMp4_0x0B1E4B8F: 0x0B1E4B8F
+          cellMp4_0x15CCEA27: 0x15CCEA27
+          cellMp4_0x390BFF1F: 0x390BFF1F
+          cellMp4_0xC4E9C174: 0xC4E9C174

@@ -1,0 +1,6 @@
+modules:
+  cellDDPdec_Library:
+    libraries:
+      cellDDPdec:
+        functions:
+          _SceAdecCorrectPtsValue_Ddp: 0xEE2731D3

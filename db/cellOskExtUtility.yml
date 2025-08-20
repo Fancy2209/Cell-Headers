@@ -1,0 +1,22 @@
+modules:
+  cellOskExtUtility_Library:
+    libraries:
+      cellOskExtUtility:
+        functions:
+          cellOskDialogExtAddJapaneseOptionDictionary: 0x23A2EDE6
+          cellOskDialogExtAddOptionDictionary: 0x4FE14D09
+          cellOskDialogExtDisableHalfByteKana: 0x9CB12C89
+          cellOskDialogExtEnableClipboard: 0x40187C25
+          cellOskDialogExtEnableHalfByteKana: 0xE6C43C58
+          cellOskDialogExtInputDeviceLock: 0x7C95FEB8
+          cellOskDialogExtInputDeviceUnlock: 0x09565B21
+          cellOskDialogExtRegisterConfirmWordFilterCallback: 0x8692FCD2
+          cellOskDialogExtRegisterForceFinishCallback: 0xE800F586
+          cellOskDialogExtRegisterKeyboardEventHookCallback: 0x1E1B4C97
+          cellOskDialogExtRegisterKeyboardEventHookCallbackEx: 0xBDCF8383
+          cellOskDialogExtSendFinishMessage: 0x42439DB5
+          cellOskDialogExtSetBaseColor: 0x7EB292CD
+          cellOskDialogExtSetInitialScale: 0x75370397
+          cellOskDialogExtSetPointerEnable: 0xC5447A90
+          cellOskDialogExtUpdateInputText: 0x8B60C469
+          cellOskDialogExtUpdatePointerDisplayPos: 0xD3EA496B

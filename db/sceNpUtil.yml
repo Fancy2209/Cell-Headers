@@ -1,0 +1,9 @@
+modules:
+  sceNpUtil_Library:
+    libraries:
+      sceNpUtil:
+        functions:
+          sceNpUtilBandwidthTestAbort: 0xC99EE313
+          sceNpUtilBandwidthTestGetStatus: 0xC880F37D
+          sceNpUtilBandwidthTestInitStart: 0xC2CED2B7
+          sceNpUtilBandwidthTestShutdown: 0x432B3CBF

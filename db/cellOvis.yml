@@ -1,0 +1,9 @@
+modules:
+  cellSre_Library:
+    libraries:
+      cellOvis:
+        functions:
+          cellOvisFixSpuSegments: 0xCE6CB776
+          cellOvisGetOverlayTableSize: 0x82F294B2
+          cellOvisInitializeOverlayTable: 0xA876C911
+          cellOvisInvalidateOverlappedSegments: 0x629BA0C0

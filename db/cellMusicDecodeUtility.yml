@@ -1,0 +1,25 @@
+modules:
+  cellMusicDecUtil_Library:
+    libraries:
+      cellMusicDecodeUtility:
+        functions:
+          cellMusicDecodeFinalize: 0xA8615DC8
+          cellMusicDecodeFinalize2: 0x4AEF2877
+          cellMusicDecodeGetContentsId: 0x58AB1999
+          cellMusicDecodeGetContentsId2: 0x25EA7AC0
+          cellMusicDecodeGetDecodeStatus: 0x5AF74C50
+          cellMusicDecodeGetDecodeStatus2: 0x1576E4F2
+          cellMusicDecodeGetSelectionContext: 0xDBF70550
+          cellMusicDecodeGetSelectionContext2: 0xF91639F9
+          cellMusicDecodeInitialize: 0xD55DBC11
+          cellMusicDecodeInitialize2: 0xF80E31E5
+          cellMusicDecodeInitialize2SystemWorkload: 0xB641168E
+          cellMusicDecodeInitializeSystemWorkload: 0x84F154B2
+          cellMusicDecodeRead: 0xA881B744
+          cellMusicDecodeRead2: 0xB2D054DF
+          cellMusicDecodeSelectContents: 0xF24CB963
+          cellMusicDecodeSelectContents2: 0xC22563C4
+          cellMusicDecodeSetDecodeCommand: 0x066BB1CF
+          cellMusicDecodeSetDecodeCommand2: 0x2EF701EC
+          cellMusicDecodeSetSelectionContext: 0xB84F5C81
+          cellMusicDecodeSetSelectionContext2: 0x491D6BA5

@@ -1,0 +1,24 @@
+modules:
+  libsjvtd_Library:
+    libraries:
+      libsjvtd:
+        functions:
+          sjvtdCancelDecode: 0x7D4375EB
+          sjvtdCreateInstance2: 0xA3683541
+          sjvtdDecodePicture: 0x6E949735
+          sjvtdDiscontinue: 0x549F260D
+          sjvtdFlushPicture: 0x9069BDBB
+          sjvtdGetAuxData: 0x98B9408D
+          sjvtdGetExistenceFlag: 0x68C6AA3F
+          sjvtdGetMemorySize: 0x9F8CD123
+          sjvtdGetMemorySize2: 0xA1912CAC
+          sjvtdGetNumPicture: 0x3BAB4DB8
+          sjvtdGetPicture: 0x4558A8E5
+          sjvtdGetSideInfoPic: 0x1B559A96
+          sjvtdGetSideInfoSeq: 0x67555D2A
+          sjvtdGetVersionNumber: 0x50F8A377
+          sjvtdInitialize: 0x57EA9D70
+          sjvtdReleaseInstance: 0xA41952A4
+          sjvtdReleasePicture: 0x437E1EB8
+          sjvtdSetAuxData: 0xBA49D65A
+          sjvtdSetDecodeMode: 0x33CF63E8

@@ -1,0 +1,23 @@
+modules:
+  cellSre_Library:
+    libraries:
+      cellSheap:
+        functions:
+          cellKeySheapBarrierDelete: 0xF6F5FBCA
+          cellKeySheapBarrierNew: 0xE897C835
+          cellKeySheapBufferDelete: 0xE6B37362
+          cellKeySheapBufferNew: 0x4A5B9659
+          cellKeySheapInitialize: 0xA1B25841
+          cellKeySheapMutexDelete: 0x2452679F
+          cellKeySheapMutexNew: 0x3478E1E6
+          cellKeySheapQueueDelete: 0x79A6ABD0
+          cellKeySheapQueueNew: 0x987E260E
+          cellKeySheapRwmDelete: 0xED136702
+          cellKeySheapRwmNew: 0xF01AC471
+          cellKeySheapSemaphoreDelete: 0x73A45CF8
+          cellKeySheapSemaphoreNew: 0x69A5861D
+          cellSheapAllocate: 0x4B1383FB
+          cellSheapFree: 0x5C5994BD
+          cellSheapInitialize: 0xBBB47CD8
+          cellSheapQueryFree: 0x7FA23275
+          cellSheapQueryMax: 0x37968718

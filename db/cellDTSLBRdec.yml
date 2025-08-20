@@ -1,0 +1,6 @@
+modules:
+  cellDTSLBRdec_Library:
+    libraries:
+      cellDTSLBRdec:
+        functions:
+          _SceAdecCorrectPtsValue_DtsLbr: 0x185591D6

@@ -1,0 +1,19 @@
+modules:
+  cellPrintUtility_Library:
+    libraries:
+      cellPrintUtility:
+        functions:
+          cellPrintCancelJob: 0x293D9E9C
+          cellPrintEndJob: 0xC04A7D42
+          cellPrintEndPage: 0x0D44F661
+          cellPrintGetPrintableArea: 0x6E952645
+          cellPrintGetStatus: 0x6802DFB5
+          cellPrintLoadAsync: 0xC9C3EF14
+          cellPrintLoadAsync2: 0xF0865182
+          cellPrintOpenConfig: 0xF9A53F35
+          cellPrintSendBand: 0x0A373522
+          cellPrintStartJob: 0x795B12B3
+          cellPrintStartPage: 0x865ACF74
+          cellPrintUnloadAsync: 0xEB51AA38
+          cellSysutilPrintInit: 0xCF1AAEFA
+          cellSysutilPrintShutdown: 0x6D996018

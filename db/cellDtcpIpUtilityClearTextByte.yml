@@ -1,0 +1,14 @@
+modules:
+  cellDtcpIpUtility_Library:
+    libraries:
+      cellDtcpIpUtilityClearTextByte:
+        functions:
+          cellDtcpIpCloseContent: 0x97619DB5
+          cellDtcpIpFinalizeAuthentication: 0x1EC068FB
+          cellDtcpIpGetHttpStatusCode: 0x65A86A64
+          cellDtcpIpInitializeAuthentication: 0x7F4A8B0E
+          cellDtcpIpInitializeEx: 0x545E08CB
+          cellDtcpIpOpenContentEx: 0x2F87926F
+          cellDtcpIpSetByteSeekRange: 0x2070C99E
+          cellDtcpIpStartAuthentication: 0x0AA9D63F
+          cellDtcpIpStopAuthentication: 0x550D3527

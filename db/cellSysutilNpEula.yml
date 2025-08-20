@@ -1,0 +1,8 @@
+modules:
+  cellSysutilNpEula_Library:
+    libraries:
+      cellSysutilNpEula:
+        functions:
+          sceNpEulaAbort: 0x5EC05AD8
+          sceNpEulaCheckEulaStatus: 0x59D1629A
+          sceNpEulaShowCurrentEula: 0x6599500D

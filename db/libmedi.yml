@@ -1,0 +1,48 @@
+modules:
+  medi:
+    libraries:
+      libmedi:
+        functions:
+          cellMediatorCloseContext: 0xC324F60C
+          cellMediatorCreateContext: 0x40AD67EB
+          cellMediatorFlushCache: 0x5D4431F0
+          cellMediatorGetProviderUrl: 0x9D11991D
+          cellMediatorGetSignatureLength: 0x4AECEA24
+          cellMediatorGetStatus: 0xF7E4A50A
+          cellMediatorGetUserInfo: 0x4D249136
+          cellMediatorPostReports: 0x85DC6981
+          cellMediatorReliablePostReports: 0xA14C6000
+          cellMediatorSign: 0x6B8F5CB9
+          libmedi_0x05A32CAB: 0x05A32CAB
+          libmedi_0x07D543C9: 0x07D543C9
+          libmedi_0x0E234FD5: 0x0E234FD5
+          libmedi_0x171F4E82: 0x171F4E82
+          libmedi_0x19B0E5DA: 0x19B0E5DA
+          libmedi_0x1D78724D: 0x1D78724D
+          libmedi_0x2DECE23D: 0x2DECE23D
+          libmedi_0x3134876F: 0x3134876F
+          libmedi_0x34248619: 0x34248619
+          libmedi_0x39EE2B1C: 0x39EE2B1C
+          libmedi_0x42E96C91: 0x42E96C91
+          libmedi_0x47B210E2: 0x47B210E2
+          libmedi_0x4F60BB15: 0x4F60BB15
+          libmedi_0x57FF9BFF: 0x57FF9BFF
+          libmedi_0x5C94F752: 0x5C94F752
+          libmedi_0x5E415F25: 0x5E415F25
+          libmedi_0x64AF8CA3: 0x64AF8CA3
+          libmedi_0x6A503294: 0x6A503294
+          libmedi_0x6B2EB131: 0x6B2EB131
+          libmedi_0x6CDCF1B3: 0x6CDCF1B3
+          libmedi_0x6E36B28A: 0x6E36B28A
+          libmedi_0x8F3EA763: 0x8F3EA763
+          libmedi_0x9E482132: 0x9E482132
+          libmedi_0xA5E7431E: 0xA5E7431E
+          libmedi_0xABE055B1: 0xABE055B1
+          libmedi_0xAE5BE3F0: 0xAE5BE3F0
+          libmedi_0xB7FDC42F: 0xB7FDC42F
+          libmedi_0xC2FC0A91: 0xC2FC0A91
+          libmedi_0xCF11CA12: 0xCF11CA12
+          libmedi_0xD587B5AF: 0xD587B5AF
+          libmedi_0xD9D9578E: 0xD9D9578E
+          libmedi_0xFC219C9D: 0xFC219C9D
+          libmedi_0xFD939B86: 0xFD939B86

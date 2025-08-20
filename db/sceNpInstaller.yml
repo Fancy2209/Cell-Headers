@@ -1,0 +1,21 @@
+modules:
+  sceNpInstaller_Library:
+    libraries:
+      sceNpInstaller:
+        functions:
+          sceNpInstallerExecDownload: 0xF1A35C8C
+          sceNpInstallerExecVideoDownload: 0x1E909446
+          sceNpInstallerGetFacebookParam: 0x0C156908
+          sceNpInstallerGetFacebookParam2: 0xF87BFE48
+          sceNpInstallerGetGuestSignIn: 0xDF328827
+          sceNpInstallerGetNpEnv: 0x2652326B
+          sceNpInstallerInit: 0xE509DEEB
+          sceNpInstallerPreOrder: 0xDB8ABBF3
+          sceNpInstallerTellFriend: 0x4343139D
+          sceNpInstallerTerm: 0xC9C7A236
+          sceNpInstaller_0x00826A2C: 0x00826A2C
+          sceNpInstaller_0x08286290: 0x08286290
+          sceNpInstaller_0x0D09EEE5: 0x0D09EEE5
+          sceNpInstaller_0x5BCAA091: 0x5BCAA091
+          sceNpInstaller_0x779A92E8: 0x779A92E8
+          sceNpInstaller_0xC76449A4: 0xC76449A4

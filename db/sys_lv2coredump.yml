@@ -1,0 +1,6 @@
+modules:
+  sys_lv2coredump_Library:
+    libraries:
+      sys_lv2coredump:
+        functions:
+          sys_lv2coredump_0xD725F320: 0xD725F320

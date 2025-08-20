@@ -1,0 +1,26 @@
+modules:
+  cellSearchUtility:
+    libraries:
+      cellSearchUtility:
+        functions:
+          cellSearchCancel: 0x8FE376A6
+          cellSearchEnd: 0x774033D6
+          cellSearchFinalize: 0xBFAB7616
+          cellSearchGetContentIdByOffset: 0x94E21701
+          cellSearchGetContentInfoByContentId: 0x9663A44B
+          cellSearchGetContentInfoByOffset: 0x3B210319
+          cellSearchGetContentInfoDeveloperData: 0x35CDA406
+          cellSearchGetContentInfoGameComment: 0xD7A7A433
+          cellSearchGetContentInfoPath: 0xFFB28491
+          cellSearchGetContentInfoPathMovieThumb: 0x37B5BA0C
+          cellSearchGetContentInfoSharable: 0x1E989496
+          cellSearchGetMusicSelectionContext: 0x025CE169
+          cellSearchGetMusicSelectionContextOfSingleTrack: 0xED20E079
+          cellSearchGetOffsetByContentId: 0x540D9068
+          cellSearchInitialize: 0xC81CCF8A
+          cellSearchPrepareFile: 0xE73CB0D2
+          cellSearchStartContentSearch: 0x0591826F
+          cellSearchStartContentSearchInList: 0x64FB0B76
+          cellSearchStartListSearch: 0x0A4C8295
+          cellSearchStartSceneSearch: 0x13524FAA
+          cellSearchStartSceneSearchInVideo: 0xC0ED0522

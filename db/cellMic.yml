@@ -1,0 +1,46 @@
+modules:
+  cellMic_Library:
+    libraries:
+      cellMic:
+        functions:
+          cellMicClose: 0x8D229F8E
+          cellMicCommand: 0xC461563C
+          cellMicEnd: 0xC6328CAA
+          cellMicGetDeviceAttr: 0x6A024AA0
+          cellMicGetDeviceGUID: 0x017024A8
+          cellMicGetDeviceIdentifier: 0xFDBBE469
+          cellMicGetFormat: 0x48108A23
+          cellMicGetFormatAux: 0xFDA12276
+          cellMicGetFormatDsp: 0x87A08D29
+          cellMicGetFormatEx: 0xAD049ECF
+          cellMicGetFormatRaw: 0x4E0B69EE
+          cellMicGetSignalAttr: 0xAC5BA03A
+          cellMicGetSignalState: 0xB30780EB
+          cellMicGetStatus: 0x25C5723F
+          cellMicGetType: 0xA52D2AE4
+          cellMicInit: 0x8325E02D
+          cellMicIsAttached: 0x1B42101B
+          cellMicIsOpen: 0x186CB1FB
+          cellMicOpen: 0xDD1B59F0
+          cellMicOpenEx: 0x05709BBF
+          cellMicOpenRaw: 0xA42AC07A
+          cellMicRead: 0x07E1B12C
+          cellMicReadAux: 0x3ACC118E
+          cellMicReadDsp: 0xC414FAA5
+          cellMicReadRaw: 0x72165A7F
+          cellMicRemoveNotifyEventQueue: 0x65336418
+          cellMicReset: 0x6BC46AAB
+          cellMicSetDeviceAttr: 0xB2C16321
+          cellMicSetMultiMicNotifyEventQueue: 0x891C6291
+          cellMicSetNotifyEventQueue: 0x7903400E
+          cellMicSetNotifyEventQueue2: 0x6CC7AE00
+          cellMicSetSignalAttr: 0x323DEB41
+          cellMicStart: 0xDD724314
+          cellMicStartEx: 0xDDD19A89
+          cellMicStop: 0xFCFAF246
+          cellMicSysShareClose: 0x3ACE58F3
+          cellMicSysShareEnd: 0xF82BBF7C
+          cellMicSysShareInit: 0xD127CD3E
+          cellMicSysShareOpen: 0xC3610DBD
+          cellMicSysShareStart: 0xCAC7E7D7
+          cellMicSysShareStop: 0xBDFD51E2

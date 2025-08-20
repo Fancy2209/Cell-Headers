@@ -1,0 +1,11 @@
+modules:
+  cellVideoExportUtility:
+    libraries:
+      cellVideoExportUtility:
+        functions:
+          cellVideoExportFinalize: 0xC15BE817
+          cellVideoExportFromFile: 0x81296524
+          cellVideoExportFromFileWithCopy: 0x78946D1F
+          cellVideoExportInitialize: 0x6A24CC70
+          cellVideoExportInitialize2: 0x2F457571
+          cellVideoExportProgress: 0x1BB79FF4

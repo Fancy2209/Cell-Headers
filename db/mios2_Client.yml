@@ -1,0 +1,19 @@
+modules:
+  cellAudio_Library:
+    libraries:
+      mios2_Client:
+        functions:
+          mios2_Client_0x1E100B60: 0x1E100B60
+          mios2_Client_0x496A6DCD: 0x496A6DCD
+          mios2_Client_0xDB53CB2C: 0xDB53CB2C
+          mios2_Client_Finalize: 0x276E33DC
+          mios2_Client_Initialize: 0x1F1778A0
+          mios2_Client_Send: 0x3DC6D270
+          mios2_Client_SendAsync: 0x0ED9FAD9
+          mios2_Client_SendAsyncWait: 0x97BF0029
+          mios2_Client_SendBlocking: 0x7B9DDCBC
+          mios2_Client_SharedMemoryAllocate: 0x83490423
+          mios2_Client_SharedMemoryFree: 0x4C019248
+          mios2_Client_SharedMemoryMap: 0x9E9005D5
+          mios2_Client_VirtualCreate: 0x520FF627
+          mios2_Client_VirtualDestroy: 0x1851073A

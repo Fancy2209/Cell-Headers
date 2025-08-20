@@ -1,0 +1,6 @@
+modules:
+  cellCelpDec_Library:
+    libraries:
+      cellCelpDec:
+        functions:
+          _SceAdecCorrectPtsValue_Celp: 0xE4B8FC4D

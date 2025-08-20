@@ -1,0 +1,23 @@
+modules:
+  cellSysmodule_Library:
+    libraries:
+      cellSysmodule:
+        functions:
+          cellSysmoduleFetchImage: 0x3C92BE09
+          cellSysmoduleFinalize: 0x96C07ADF
+          cellSysmoduleGetImagesize: 0x1EF115EF
+          cellSysmoduleInitialize: 0x63FF6FF9
+          cellSysmoduleIsLoaded: 0x5A59E258
+          cellSysmoduleIsLoadedEx: 0x70E319B5
+          cellSysmoduleLoadModule: 0x32267A31
+          cellSysmoduleLoadModuleEx: 0x1A267F98
+          cellSysmoduleLoadModuleInternal: 0xD9B8C0EE
+          cellSysmoduleSetMemcontainer: 0xA193143C
+          cellSysmoduleUnloadModule: 0x112A5EE9
+          cellSysmoduleUnloadModuleEx: 0xFD0E1CAC
+          cellSysmoduleUnloadModuleInternal: 0xB498BF77
+          cellSysmodule_0x002CD0BF: 0x002CD0BF
+          cellSysmodule_0x03D90241: 0x03D90241
+          cellSysmodule_0x205FE2A0: 0x205FE2A0
+          cellSysmodule_0x59521326: 0x59521326
+          cellSysmodule_0xC93200DE: 0xC93200DE

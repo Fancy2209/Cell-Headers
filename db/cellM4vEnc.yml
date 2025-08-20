@@ -1,0 +1,40 @@
+modules:
+  cellM4vEnc_Library:
+    libraries:
+      cellM4vEnc:
+        functions:
+          cellM4vEncCancelAuInfo: 0xB9BE30C0
+          cellM4vEncCancelFrame: 0x3BE4620C
+          cellM4vEncCancelLocalDecodedFrame: 0x8B31F735
+          cellM4vEncCancelStream: 0xD87822AB
+          cellM4vEncClose: 0xA314D362
+          cellM4vEncEncodeFrame: 0xC289D964
+          cellM4vEncGetAuInfo: 0xB82E6F27
+          cellM4vEncGetFrameForInput: 0x28B2977F
+          cellM4vEncGetLocalDecodedFrame: 0xC708618A
+          cellM4vEncGetResult: 0x17E3A76C
+          cellM4vEncGetResult2: 0x612F79B0
+          cellM4vEncGetStream: 0x4DE475D7
+          cellM4vEncGetVersion: 0x7F9BAFED
+          cellM4vEncOpen: 0x4737F7FE
+          cellM4vEncOpenEx: 0xBDB1E067
+          cellM4vEncOpenExt: 0xDB42EEE6
+          cellM4vEncQueryPresetParameter: 0xF8292A94
+          cellM4vEncQueryResource: 0xDF3E7FDB
+          cellM4vEncReleaseLocalDecodedFrame: 0xD8C9C9A3
+          cellM4vEncReopen: 0x3124A0E0
+          cellM4vEncSendEncCommand: 0xC85CD08D
+          cellM4vEncSetEndPoint: 0x88902AC0
+          cellM4vEncTermIntercommuner: 0xEA99BEC1
+          cellM4vEnc_0x092B332D: 0x092B332D
+          cellM4vEnc_0x0B195433: 0x0B195433
+          cellM4vEnc_0x0EC868E9: 0x0EC868E9
+          cellM4vEnc_0x507E60D8: 0x507E60D8
+          cellM4vEnc_0x7B7E9B4B: 0x7B7E9B4B
+          cellM4vEnc_0x92BF1831: 0x92BF1831
+          cellM4vEnc_0x95D2B8F2: 0x95D2B8F2
+          cellM4vEnc_0xA329CDA3: 0xA329CDA3
+          cellM4vEnc_0xA3EDEAC9: 0xA3EDEAC9
+          cellM4vEnc_0xAB3B08B2: 0xAB3B08B2
+          cellM4vEnc_0xCCFEC845: 0xCCFEC845
+          cellM4vEnc_0xFFFC12F5: 0xFFFC12F5

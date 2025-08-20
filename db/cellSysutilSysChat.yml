@@ -1,0 +1,10 @@
+modules:
+  cellSysutilSysChat_Library:
+    libraries:
+      cellSysutilSysChat:
+        functions:
+          cellSysutilSysChat_0x2DF103C5: 0x2DF103C5
+          cellSysutilSysChat_0x3FB4ECE2: 0x3FB4ECE2
+          cellSysutilSysChat_0x95F24E90: 0x95F24E90
+          cellSysutilSysChat_0xA7DBA279: 0xA7DBA279
+          cellSysutilSysChat_0xD0E85432: 0xD0E85432

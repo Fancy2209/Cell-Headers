@@ -1,0 +1,16 @@
+modules:
+  sceNpSns_Library:
+    libraries:
+      sceNpSns:
+        functions:
+          sceNpSnsFbAbortHandle: 0x3711833F
+          sceNpSnsFbCheckConfig: 0xAA9ED7FF
+          sceNpSnsFbCheckThrottle: 0x53D03CE1
+          sceNpSnsFbCreateHandle: 0x8FD1D549
+          sceNpSnsFbDestroyHandle: 0x6E42C0DD
+          sceNpSnsFbGetAccessToken: 0x702DC876
+          sceNpSnsFbGetLongAccessToken: 0xBA8C569E
+          sceNpSnsFbInit: 0x2C0F3548
+          sceNpSnsFbLoadThrottle: 0xAF86C77A
+          sceNpSnsFbStreamPublish: 0x021D6C1F
+          sceNpSnsFbTerm: 0xC05545FD

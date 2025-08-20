@@ -1,0 +1,9 @@
+modules:
+  sys_io_library:
+    libraries:
+      sys_io_debug:
+        functions:
+          cellPadDbgGetData: 0xCF3051F7
+          cellPadDbgLddRegisterController: 0xA74396E5
+          cellPadDbgLddSetDataInsertMode: 0x94B98E39
+          cellPadDbgPeriphRegisterDevice: 0x7C5D5FC1

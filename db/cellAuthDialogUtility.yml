@@ -1,0 +1,8 @@
+modules:
+  cellAuthDialogUtility:
+    libraries:
+      cellAuthDialogUtility:
+        functions:
+          cellAuthDialogAbort: 0xEB27885B
+          cellAuthDialogClose: 0x975D4824
+          cellAuthDialogOpen: 0x395EF8D7

@@ -1,0 +1,17 @@
+modules:
+  cellGifDec_Library:
+    libraries:
+      cellGifDec:
+        functions:
+          cellGifDecClose: 0x116A7DA9
+          cellGifDecCreate: 0xB60D42A5
+          cellGifDecDecodeData: 0x44B1BC61
+          cellGifDecDestroy: 0xE74B2CB1
+          cellGifDecExtCreate: 0x4711CB7F
+          cellGifDecExtDecodeData: 0x02E7E03E
+          cellGifDecExtOpen: 0x17FB83C1
+          cellGifDecExtReadHeader: 0xE53F91F2
+          cellGifDecExtSetParameter: 0x95CAE771
+          cellGifDecOpen: 0x75745079
+          cellGifDecReadHeader: 0xF0DA95DE
+          cellGifDecSetParameter: 0x41A90DC4

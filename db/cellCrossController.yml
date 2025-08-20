@@ -1,0 +1,6 @@
+modules:
+  cellCrossControllerLibrary:
+    libraries:
+      cellCrossController:
+        functions:
+          cellCrossControllerInitialize: 0x37E1F502

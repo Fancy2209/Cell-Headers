@@ -1,0 +1,6 @@
+modules:
+  sceNp_Library:
+    libraries:
+      sceNpBasicLimited:
+        functions:
+          sceNpBasicLimited_0xEB42E2E6: 0xEB42E2E6

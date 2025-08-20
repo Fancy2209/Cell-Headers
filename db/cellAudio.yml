@@ -1,0 +1,31 @@
+modules:
+  cellAudio_Library:
+    libraries:
+      cellAudio:
+        functions:
+          cellAudioAdd2chData: 0x9E4B1DB8
+          cellAudioAdd6chData: 0x832DF17E
+          cellAudioAddData: 0xDAB029AA
+          cellAudioCreateNotifyEventQueue: 0x04AF134E
+          cellAudioCreateNotifyEventQueueEx: 0xA4C9BA65
+          cellAudioGetPortBlockTag: 0xE4046AFE
+          cellAudioGetPortConfig: 0x74A66AF0
+          cellAudioGetPortTimestamp: 0x4109D08C
+          cellAudioInit: 0x0B168F92
+          cellAudioMiscSetAccessoryVolume: 0x31211F6B
+          cellAudioPortClose: 0x4129FE2D
+          cellAudioPortOpen: 0xCD7BC431
+          cellAudioPortStart: 0x89BE28F2
+          cellAudioPortStop: 0x5B1E2C73
+          cellAudioQuit: 0xCA5AC370
+          cellAudioRemoveNotifyEventQueue: 0xFF3626FD
+          cellAudioRemoveNotifyEventQueueEx: 0x2B9BD9AD
+          cellAudioSendAck: 0x17D1213B
+          cellAudioSetNotifyEventQueue: 0x377E0CD9
+          cellAudioSetNotifyEventQueueEx: 0xB56EF5A1
+          cellAudioSetPersonalDevice: 0x5676F81C
+          cellAudioSetPortLevel: 0x56DFE179
+          cellAudioUnsetPersonalDevice: 0x28BC1409
+          cellAudio_0x6E6C9CE2: 0x6E6C9CE2
+          cellAudio_0x95E90F95: 0x95E90F95
+          cellAudio_0xB8C3BB95: 0xB8C3BB95

@@ -1,0 +1,35 @@
+modules:
+  cellSysutilAvcExt_Library:
+    libraries:
+      cellSysutilAvcExt:
+        functions:
+          cellSysutilAvcExtGetNamePlateShowStatus: 0x326FAB55
+          cellSysutilAvcExtGetSurfacePointer: 0xCBE0C10A
+          cellSysutilAvcExtGetWindowAlpha: 0xAED82C21
+          cellSysutilAvcExtGetWindowPosition: 0x22A36B23
+          cellSysutilAvcExtGetWindowRotation: 0x8ED310E5
+          cellSysutilAvcExtGetWindowShowStatus: 0x2D9A1997
+          cellSysutilAvcExtGetWindowSize: 0x28F0DC04
+          cellSysutilAvcExtHidePanelEx: 0x683FE299
+          cellSysutilAvcExtHideWindow: 0x739C2F63
+          cellSysutilAvcExtInitOptionParam: 0xD8685383
+          cellSysutilAvcExtIsCameraAttached: 0x646C6C5F
+          cellSysutilAvcExtIsMicAttached: 0x001074D0
+          cellSysutilAvcExtLoadAsyncEx: 0x51CCBE09
+          cellSysutilAvcExtSetChatGroup: 0x75F14D18
+          cellSysutilAvcExtSetChatMode: 0x2FFF23F0
+          cellSysutilAvcExtSetHideNamePlate: 0x22CA0929
+          cellSysutilAvcExtSetShowNamePlate: 0x5A763D0E
+          cellSysutilAvcExtSetWindowAlpha: 0x332EE22C
+          cellSysutilAvcExtSetWindowPosition: 0x245FF230
+          cellSysutilAvcExtSetWindowRotation: 0x1B6E8CD2
+          cellSysutilAvcExtSetWindowSize: 0x40BC33C8
+          cellSysutilAvcExtSetWindowZorder: 0xE8B1C18D
+          cellSysutilAvcExtShowPanelEx: 0x4466C0E2
+          cellSysutilAvcExtShowWindow: 0x61B1CB18
+          cellSysutilAvcExtStartCameraDetection: 0x29D5C6A4
+          cellSysutilAvcExtStartMicDetection: 0x9E0FAFD3
+          cellSysutilAvcExtStartVoiceDetection: 0xC851A4C0
+          cellSysutilAvcExtStopCameraDetection: 0x143F46A4
+          cellSysutilAvcExtStopMicDetection: 0xCC131B91
+          cellSysutilAvcExtStopVoiceDetection: 0x5BA98E47

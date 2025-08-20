@@ -1,0 +1,5 @@
+modules:
+  cellMP3dec_Library:
+    libraries:
+      cellMP3dec:
+        functions:

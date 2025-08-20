@@ -1,0 +1,16 @@
+modules:
+  cellSubDisplay_Library:
+    libraries:
+      cellSubDisplay:
+        functions:
+          cellSubDisplayAudioOutBlocking: 0xAEE1E0C2
+          cellSubDisplayAudioOutNonBlocking: 0x5468D6B0
+          cellSubDisplayEnd: 0x551D80A5
+          cellSubDisplayGetPeerList: 0xE2485F79
+          cellSubDisplayGetPeerNum: 0x8A264D71
+          cellSubDisplayGetRequiredMemory: 0x6595CE22
+          cellSubDisplayGetTouchInfo: 0x415ED9DC
+          cellSubDisplayGetVideoBuffer: 0x938AC642
+          cellSubDisplayInit: 0xF9A7E8A5
+          cellSubDisplayStart: 0xA5BCCB47
+          cellSubDisplayStop: 0x6D85DDB3

@@ -1,0 +1,10 @@
+modules:
+  cellDtcpIpUtility_Library:
+    libraries:
+      cellDtcpIpUtilityMove:
+        functions:
+          cellDtcpIpMoveClose: 0xA98DEADE
+          cellDtcpIpMoveCommitment: 0x9A219C98
+          cellDtcpIpMoveOpen: 0xF4EF1B28
+          cellDtcpIpMoveOpenEx: 0x269A634B
+          cellDtcpIpMoveRead: 0xCA87F652

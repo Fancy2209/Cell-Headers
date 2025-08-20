@@ -1,0 +1,5 @@
+modules:
+  cell_libac3dec_lib:
+    libraries:
+      cell_libac3dec:
+        functions:

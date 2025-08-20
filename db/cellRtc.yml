@@ -1,0 +1,45 @@
+modules:
+  cellRtc_Library:
+    libraries:
+      cellRtc:
+        functions:
+          cellRtcCheckValid: 0x7F1086E6
+          cellRtcCompareTick: 0xFB51FC61
+          cellRtcConvertLocalTimeToUtc: 0x46CA7FE0
+          cellRtcConvertUtcToLocalTime: 0xC48D5002
+          cellRtcFormatRfc2822: 0x5491B9D5
+          cellRtcFormatRfc2822LocalTime: 0xA07C3D2F
+          cellRtcFormatRfc3339: 0xD9C0B463
+          cellRtcFormatRfc3339LocalTime: 0x1324948A
+          cellRtcGetCurrentClock: 0x32C941CF
+          cellRtcGetCurrentClockLocalTime: 0x2CCE9CF5
+          cellRtcGetCurrentSecureTick: 0xC4808FD7
+          cellRtcGetCurrentTick: 0x9DAFC0D9
+          cellRtcGetDayOfWeek: 0xC2D8CF95
+          cellRtcGetDaysInMonth: 0x5B6A0A1D
+          cellRtcGetDosTime: 0xDFFF32CF
+          cellRtcGetSystemTime: 0xF582308D
+          cellRtcGetTick: 0xC7BDB7EB
+          cellRtcGetTickResolution: 0x748BEDA3
+          cellRtcGetTime_t: 0xCB90C761
+          cellRtcGetWin32FileTime: 0xE7086F05
+          cellRtcIsLeapYear: 0x5316B4A8
+          cellRtcParseDateTime: 0xC5BC0FAC
+          cellRtcParseRfc3339: 0xCF11C3D6
+          cellRtcSetConf: 0x5E78D18E
+          cellRtcSetCurrentSecureTick: 0x3DC09A3E
+          cellRtcSetCurrentTick: 0xEB22BB86
+          cellRtcSetDosTime: 0x9598D4B3
+          cellRtcSetSystemTime: 0xE22D74A4
+          cellRtcSetTick: 0x99B13034
+          cellRtcSetTime_t: 0xBB543189
+          cellRtcSetWin32FileTime: 0x5F68C268
+          cellRtcTickAddDays: 0x75744E2A
+          cellRtcTickAddHours: 0xD41D3BD2
+          cellRtcTickAddMicroseconds: 0xF8509925
+          cellRtcTickAddMinutes: 0x2F010BFA
+          cellRtcTickAddMonths: 0xE0ECBB45
+          cellRtcTickAddSeconds: 0xCCCE71BD
+          cellRtcTickAddTicks: 0x269A1882
+          cellRtcTickAddWeeks: 0x64C63FD5
+          cellRtcTickAddYears: 0x332A74DD

@@ -1,0 +1,17 @@
+modules:
+  cellMinisSaveData_Library:
+    libraries:
+      cellMinisSaveData:
+        functions:
+          cellMinisSaveDataAutoDelete: 0xE0AFD1E6
+          cellMinisSaveDataAutoLoad: 0xFC3045D9
+          cellMinisSaveDataAutoSave: 0x0A516FFD
+          cellMinisSaveDataDelete: 0x6EB168B3
+          cellMinisSaveDataFixedLoad: 0x66515C18
+          cellMinisSaveDataFixedSave: 0xF3F974B8
+          cellMinisSaveDataListAutoLoad: 0x22F2A553
+          cellMinisSaveDataListAutoSave: 0xA931356E
+          cellMinisSaveDataListDelete: 0xE63EB964
+          cellMinisSaveDataListLoad: 0xBA161D45
+          cellMinisSaveDataListSave: 0xA342A73F
+          cellMinisSaveDataSingleDelete: 0x47BB3BC0

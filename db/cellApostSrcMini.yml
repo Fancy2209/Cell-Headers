@@ -1,0 +1,21 @@
+modules:
+  CELLAPOSTSRC_Library:
+    libraries:
+      cellApostSrcMini:
+        functions:
+          cellApostSrcAdjustFirst: 0x736513CA
+          cellApostSrcAdjustLast: 0xC4248C51
+          cellApostSrcFinalize: 0xCF350A4C
+          cellApostSrcFinalizeHandle: 0x827CB70E
+          cellApostSrcGetWorksize: 0x24F4ECD3
+          cellApostSrcInitialize: 0xCB3974E7
+          cellApostSrcInitialize2: 0x9AAA0039
+          cellApostSrcInitialize3: 0x7156446D
+          cellApostSrcInitializeHandle: 0xA87B5742
+          cellApostSrcMini_0xCAA48B00: 0xCAA48B00
+          cellApostSrcProcess: 0x752E10C4
+          cellApostSrcProcessAsync: 0x35506005
+          cellApostSrcProcessHandle: 0x24FA3789
+          cellApostSrcSetSPURSParam: 0x8A6D4227
+          cellApostSrcTruncate: 0xF960FCA7
+          cellApostSrcTruncateHandle: 0xB3226E6A

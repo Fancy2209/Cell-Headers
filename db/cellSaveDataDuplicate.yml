@@ -1,0 +1,7 @@
+modules:
+  cellSaveData_Library:
+    libraries:
+      cellSaveDataDuplicate:
+        functions:
+          cellSaveDataDuplicate_0x039511AB: 0x039511AB
+          cellSaveDataDuplicate_0xBBEE1221: 0xBBEE1221

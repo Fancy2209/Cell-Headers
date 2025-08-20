@@ -1,0 +1,27 @@
+modules:
+  libsvc1d_Library:
+    libraries:
+      libsvc1d:
+        functions:
+          svc1dCancelDecode: 0x3666354F
+          svc1dCreateInstance2: 0x5E8AAE6A
+          svc1dDecodePicture: 0x51C73000
+          svc1dDecodePicture2: 0x4F4EEE83
+          svc1dDecodeSeqHeader: 0x9867CDC2
+          svc1dDiscontinue: 0x0306A00D
+          svc1dFlushPicture: 0x19610523
+          svc1dGetAuxData: 0xA1468D7B
+          svc1dGetExistenceFlag: 0x76D867F4
+          svc1dGetMemorySize: 0xF106AAD3
+          svc1dGetMemorySize2: 0x593E2315
+          svc1dGetNumPicture: 0x149555D0
+          svc1dGetPicture: 0xD8465650
+          svc1dGetSideInfoPic: 0x7441419B
+          svc1dGetSideInfoSeq: 0xEBBFEAC3
+          svc1dGetVersionNumber: 0x6C366C43
+          svc1dInitialize: 0x3607BBF8
+          svc1dReleaseInstance: 0xD9CD56BA
+          svc1dReleasePicture: 0x95665052
+          svc1dSetAuxData: 0x383CBE2F
+          svc1dSetDecodeMode: 0xFE0E34B8
+          svc1dSetPictureSize: 0xA8E94A19

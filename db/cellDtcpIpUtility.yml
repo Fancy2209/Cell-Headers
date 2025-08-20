@@ -1,0 +1,18 @@
+modules:
+  cellDtcpIpUtility_Library:
+    libraries:
+      cellDtcpIpUtility:
+        functions:
+          cellDtcpIpActivate: 0x48FF0164
+          cellDtcpIpCheckActivation: 0x9413678F
+          cellDtcpIpClose: 0xE31BD1CA
+          cellDtcpIpFinalize: 0x4659CA92
+          cellDtcpIpGetDecryptedData: 0xAC14B8E3
+          cellDtcpIpInitialize: 0x9ADE62E5
+          cellDtcpIpOpen: 0x8BD01379
+          cellDtcpIpRead: 0x0836F1F7
+          cellDtcpIpSeek: 0xB89105CA
+          cellDtcpIpSetEncryptedData: 0xE0ACE309
+          cellDtcpIpStartSequence: 0xCB1E777F
+          cellDtcpIpStopSequence: 0xB2176B06
+          cellDtcpIpSuspendActivationForDebug: 0xFB12B7FC

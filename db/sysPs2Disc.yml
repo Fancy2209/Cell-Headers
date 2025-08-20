@@ -1,0 +1,7 @@
+modules:
+  liblv2:
+    libraries:
+      sysPs2Disc:
+        functions:
+          sysPs2Disc_0xA84FD3C3: 0xA84FD3C3
+          sysPs2Disc_0xBB7CD1AE: 0xBB7CD1AE

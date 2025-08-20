@@ -1,0 +1,33 @@
+modules:
+  sceNpTrophy_Library:
+    libraries:
+      sceNpTrophy:
+        functions:
+          sceNpTrophyAbortHandle: 0x48BD97C7
+          sceNpTrophyCreateContext: 0xE3BF9A28
+          sceNpTrophyCreateHandle: 0x1C25470D
+          sceNpTrophyDestroyContext: 0x3741ECC7
+          sceNpTrophyDestroyHandle: 0x623CD2DC
+          sceNpTrophyGetGameDetails: 0x79770E3B
+          sceNpTrophyGetGameIcon: 0xFF299E03
+          sceNpTrophyGetGameInfo: 0x49D18217
+          sceNpTrophyGetGameProgress: 0x079F0E87
+          sceNpTrophyGetLatestTrophies: 0x9BD1F890
+          sceNpTrophyGetRequiredDiskSpace: 0x370136FE
+          sceNpTrophyGetTrophyDetails: 0xF0F87A60
+          sceNpTrophyGetTrophyIcon: 0xBAEDF689
+          sceNpTrophyGetTrophyInfo: 0xFCE6D30A
+          sceNpTrophyGetTrophyUnlockState: 0xB3AC3478
+          sceNpTrophyGetUserInfo: 0xB5573004
+          sceNpTrophyInit: 0x39567781
+          sceNpTrophyNetworkSync: 0x014786F2
+          sceNpTrophyRegisterContext: 0x1197B52C
+          sceNpTrophySetSoundLevel: 0x27DEDA93
+          sceNpTrophyTerm: 0xA7FABF4D
+          sceNpTrophyUnlockTrophy: 0x8CEEDD21
+          sceNpTrophy_0x0C941692: 0x0C941692
+          sceNpTrophy_0x518CA6C0: 0x518CA6C0
+          sceNpTrophy_0x54D014EE: 0x54D014EE
+          sceNpTrophy_0x7FACB0D7: 0x7FACB0D7
+          sceNpTrophy_0x92E0410E: 0x92E0410E
+          sceNpTrophy_0xB460AE5B: 0xB460AE5B

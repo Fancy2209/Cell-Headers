@@ -1,0 +1,40 @@
+modules:
+  sys_lv2dbg_Library:
+    libraries:
+      sys_lv2dbg:
+        functions:
+          sys_dbg_disable_floating_point_enabled_exception: 0xF254768C
+          sys_dbg_enable_floating_point_enabled_exception: 0x3147C6CA
+          sys_dbg_finalize_ppu_exception_handler: 0xC0EB9266
+          sys_dbg_get_address_from_dabr: 0xBB0AE221
+          sys_dbg_get_cond_information: 0x63BD413E
+          sys_dbg_get_coredump_params: 0xB9DA87D3
+          sys_dbg_get_event_flag_information: 0xDF856979
+          sys_dbg_get_event_queue_information: 0x381AE33E
+          sys_dbg_get_lwcond_information: 0x7BDADB01
+          sys_dbg_get_lwmutex_information: 0xCB377E36
+          sys_dbg_get_mutex_information: 0x50453AA8
+          sys_dbg_get_ppu_thread_ids: 0x113B0BEA
+          sys_dbg_get_ppu_thread_name: 0x4B55F456
+          sys_dbg_get_ppu_thread_status: 0x6B413178
+          sys_dbg_get_rwlock_information: 0x9794BB53
+          sys_dbg_get_semaphore_information: 0xA2D6CBD2
+          sys_dbg_get_spu_thread_group_ids: 0x08EF08A9
+          sys_dbg_get_spu_thread_group_name: 0xBD69E584
+          sys_dbg_get_spu_thread_group_status: 0x9DDB9DC3
+          sys_dbg_get_spu_thread_ids: 0x1860F909
+          sys_dbg_get_spu_thread_name: 0x3E5EED36
+          sys_dbg_initialize_ppu_exception_handler: 0xC353353A
+          sys_dbg_mat_get_condition: 0x590A276E
+          sys_dbg_mat_set_condition: 0x24A3D413
+          sys_dbg_read_ppu_thread_context: 0xC5EEF17F
+          sys_dbg_read_spu_thread_context: 0xC21EE635
+          sys_dbg_read_spu_thread_context2: 0x266C2BD3
+          sys_dbg_register_ppu_exception_handler: 0x22916F45
+          sys_dbg_set_address_to_dabr: 0xDB14B37B
+          sys_dbg_set_mask_to_ppu_exception_handler: 0xAB475D53
+          sys_dbg_set_stacksize_ppu_exception_handler: 0x06A840F5
+          sys_dbg_signal_to_coredump_handler: 0xD830062A
+          sys_dbg_signal_to_ppu_exception_handler: 0x4DED9F6C
+          sys_dbg_unregister_ppu_exception_handler: 0xC6D7EC13
+          sys_dbg_vm_get_page_information: 0x580F8203

@@ -1,0 +1,10 @@
+modules:
+  cellVpost2_Library:
+    libraries:
+      cellVpost2:
+        functions:
+          cellVpost2Close: 0x7BC6E690
+          cellVpost2Exec: 0x4EF16A92
+          cellVpost2GetResult: 0xAB609749
+          cellVpost2Open: 0xCA3CB5B5
+          cellVpost2QueryAttr: 0x78FD9E05

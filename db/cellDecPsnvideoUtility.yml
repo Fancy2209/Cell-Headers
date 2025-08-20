@@ -1,0 +1,36 @@
+modules:
+  cellDecPsnvideoUtility:
+    libraries:
+      cellDecPsnvideoUtility:
+        functions:
+          cellDecPsnvideoAllocProfiler: 0x4FB7E4D5
+          cellDecPsnvideoCloseTrack: 0xB4338C59
+          cellDecPsnvideoDecryptSample: 0xD89A6BCE
+          cellDecPsnvideoEvaluateLicense: 0x30555A9C
+          cellDecPsnvideoFinalize: 0x4C6FF56E
+          cellDecPsnvideoFreeProfiler: 0xB489C8C3
+          cellDecPsnvideoGetLicenseInfo: 0x74D32DAF
+          cellDecPsnvideoGetSignalControlInfo: 0xAD873915
+          cellDecPsnvideoInitialize: 0xAFCB91BC
+          cellDecPsnvideoOpenTrack: 0x66130F5D
+          cellMarlinDLCheckActivationStatus: 0xED2CBC23
+          cellMarlinDLExecActivation: 0x42AA294E
+          cellMarlinDLFin: 0xF50F41C4
+          cellMarlinDLInit: 0x1702D114
+          cellMarlinDLLicenseDownloadAndSave: 0xAA5A7DEF
+          cellMarlinDRMActionCheck: 0x3E96C348
+          cellMarlinDRMActionDescribe: 0x2B68C241
+          cellMarlinDRMActionPerform: 0x3DC47B71
+          cellMarlinDRMDecryptWithOffset: 0xA22DBEA5
+          cellMarlinDRMDeleteLicense: 0x05152522
+          cellMarlinDRMFin: 0xC2E45C8B
+          cellMarlinDRMFinSession: 0x7A33E82A
+          cellMarlinDRMFinTrack: 0x7321BADB
+          cellMarlinDRMInit: 0x802A1BE8
+          cellMarlinDRMInitSession: 0x9D935729
+          cellMarlinDRMInitTrack: 0x6AAA1E97
+          cellMarlinDRMSetLicense: 0x9278A8AB
+          cellMarlinDRMcencGetCID: 0xD42475CF
+          cellMarlinDRMcencParsePsshBox: 0xF1219EF4
+          cellMarlinUtilityFinalize: 0x55C5280D
+          cellMarlinUtilityInitialize: 0x745DB631

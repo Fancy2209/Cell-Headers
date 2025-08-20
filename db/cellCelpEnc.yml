@@ -1,0 +1,15 @@
+modules:
+  cellCelpEnc_Library:
+    libraries:
+      cellCelpEnc:
+        functions:
+          cellCelpEncClose: 0x15EC0CCA
+          cellCelpEncEncodeFrame: 0x81FE030C
+          cellCelpEncEnd: 0xF2B85DFF
+          cellCelpEncGetAu: 0x3773692F
+          cellCelpEncOpen: 0x77B3B29A
+          cellCelpEncOpenEx: 0x9EB084DB
+          cellCelpEncOpenExt: 0xBA50BC23
+          cellCelpEncQueryAttr: 0x6B148570
+          cellCelpEncStart: 0x55DC23DE
+          cellCelpEncWaitForOutput: 0x9B244272
