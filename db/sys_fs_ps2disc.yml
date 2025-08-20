@@ -3,4 +3,4 @@ modules:
     libraries:
       sys_fs_ps2disc:
         functions:
-          sys_fs_ps2disc_0x8160A811: 0x8160A811
+          switchesdev_ps2disc1mount: 0x8160A811

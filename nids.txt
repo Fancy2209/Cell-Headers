@@ -9098,3 +9098,4 @@
 0xBA6D149A _ZN3paf11PhLabelPrim10WidgetTypeEv
 0x6C0CFF03 cellRudpEnableInternalIOThread
 0xAA3B4BCD cellFsGetFreeSize
+0x8160A811 switchesdev_ps2disc1mount
