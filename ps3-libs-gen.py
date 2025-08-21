@@ -86,7 +86,7 @@ def generate_asm(lib_name, library):
 
 def process_file(filename):
 	with open(filename, 'r') as f:
-		db = yaml.load(f)
+		db = yaml.safe_load(f)
 		modules = db["modules"]
 		for mod_name in modules:
 			libraries = modules[mod_name]["libraries"]
